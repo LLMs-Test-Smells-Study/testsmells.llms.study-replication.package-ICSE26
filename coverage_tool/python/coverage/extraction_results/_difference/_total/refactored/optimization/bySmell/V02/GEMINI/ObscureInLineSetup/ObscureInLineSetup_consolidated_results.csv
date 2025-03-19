@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aws-cli.GEMINI.V02.ObscureInLineSetup.csv,0,-8841,0.0,-41.50704225352113
+difference_cloud-init.GEMINI.V02.ObscureInLineSetup.csv,0,-17459,0.0,-75.58008658008659
+difference_vhs-teletext.GEMINI.V02.ObscureInLineSetup.csv,0,-3,0.0,-0.06818181818181818
+difference_RxPY.GEMINI.V02.ObscureInLineSetup.csv,-5,80,-0.01288659793814433,0.20618556701030927
+difference_robotframework.GEMINI.V02.ObscureInLineSetup.csv,-25,-36,-0.23148148148148148,-0.3333333333333333

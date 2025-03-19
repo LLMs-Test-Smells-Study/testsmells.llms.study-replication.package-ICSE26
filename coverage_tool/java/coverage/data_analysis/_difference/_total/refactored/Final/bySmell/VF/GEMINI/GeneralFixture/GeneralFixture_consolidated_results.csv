@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_unix4j.GEMINI.VF.GeneralFixture.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_junit-quickcheck.GEMINI.VF.GeneralFixture.csv,1613,-315,9.061797752808989,-1.7696629213483146
+difference_redpipe.GEMINI.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_wikidata-toolkit.GEMINI.VF.GeneralFixture.csv,0,988,0.0,5.613636363636363
+difference_dropwizard.GEMINI.VF.GeneralFixture.csv,-5,-4,-0.016339869281045753,-0.013071895424836602

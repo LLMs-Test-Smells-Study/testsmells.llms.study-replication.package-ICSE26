@@ -1,0 +1,3 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_acitoolkit.LLAMA.VF.ConstructorInitialization.csv,415,21,27.666666666666668,1.4
+difference_jedi.LLAMA.VF.ConstructorInitialization.csv,0,45,0.0,0.3125

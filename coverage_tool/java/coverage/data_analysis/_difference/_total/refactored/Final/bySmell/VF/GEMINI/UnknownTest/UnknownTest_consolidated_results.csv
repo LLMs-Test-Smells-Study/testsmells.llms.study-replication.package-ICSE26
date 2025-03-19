@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_unix4j.GEMINI.VF.UnknownTest.csv,-481,466,-2.454081632653061,2.377551020408163
+difference_junit-quickcheck.GEMINI.VF.UnknownTest.csv,0,1298,0.0,7.292134831460674
+difference_search-highlighter.GEMINI.VF.UnknownTest.csv,1,1169,0.009433962264150943,11.028301886792454
+difference_elastic-job-lite.GEMINI.VF.UnknownTest.csv,0,5688,0.0,18.52768729641694
+difference_wikidata-toolkit.GEMINI.VF.UnknownTest.csv,3,-3,0.017045454545454544,-0.017045454545454544
+difference_dropwizard.GEMINI.VF.UnknownTest.csv,-5,1297,-0.016339869281045753,4.238562091503268
+difference_pippo.GEMINI.VF.UnknownTest.csv,64,48,0.5423728813559322,0.4067796610169492

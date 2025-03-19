@@ -1,0 +1,4 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_acitoolkit.GEMINI.VF.IgnoredTest.csv,-768,0,-51.2,0.0
+difference_aws-cli.GEMINI.VF.IgnoredTest.csv,0,0,0.0,0.0
+difference_cloud-init.GEMINI.VF.IgnoredTest.csv,-168,3268,-0.6588235294117647,12.815686274509805

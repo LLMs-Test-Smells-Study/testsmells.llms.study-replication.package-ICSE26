@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_elastic-job-lite.GEMINI.VF.ConditionalTestLogic.csv,0,5688,0.0,18.52768729641694
+difference_junit-quickcheck.GEMINI.VF.ConditionalTestLogic.csv,1579,-1565,8.870786516853933,-8.792134831460674
+difference_dropwizard.GEMINI.VF.ConditionalTestLogic.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_unix4j.GEMINI.VF.ConditionalTestLogic.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_wikidata-toolkit.GEMINI.VF.ConditionalTestLogic.csv,0,7490,0.0,42.55681818181818

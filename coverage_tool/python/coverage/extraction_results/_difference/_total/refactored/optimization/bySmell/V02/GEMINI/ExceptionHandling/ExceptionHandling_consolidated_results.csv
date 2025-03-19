@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aws-cli.GEMINI.V02.ExceptionHandling.csv,0,-8841,0.0,-41.50704225352113
+difference_RxPY.GEMINI.V02.ExceptionHandling.csv,-28,-15227,-0.10894941634241245,-59.249027237354085
+difference_cloud-init.GEMINI.V02.ExceptionHandling.csv,0,-17459,0.0,-75.58008658008659
+difference_robotframework.GEMINI.V02.ExceptionHandling.csv,-24,-31,-0.2222222222222222,-0.28703703703703703
+difference_vhs-teletext.GEMINI.V02.ExceptionHandling.csv,0,-449,0.0,-10.204545454545455
+difference_pybuilder.GEMINI.V02.ExceptionHandling.csv,0,0,0.0,0.0

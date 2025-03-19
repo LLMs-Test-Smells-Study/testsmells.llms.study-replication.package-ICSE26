@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_grimoirelab-perceval.GEMINI.V02.RedundantPrint.csv,1,1,0.012345679012345678,0.012345679012345678
+difference_RxPY.GEMINI.V02.RedundantPrint.csv,-5,-15170,-0.019455252918287938,-59.02723735408561
+difference_stig.GEMINI.V02.RedundantPrint.csv,2,9190,0.03571428571428571,164.10714285714286
+difference_acitoolkit.GEMINI.V02.RedundantPrint.csv,0,-1,0.0,-0.06666666666666667
+difference_cloud-init.GEMINI.V02.RedundantPrint.csv,0,-17459,0.0,-75.58008658008659
+difference_softlayer.GEMINI.V02.RedundantPrint.csv,1,-1,0.0016778523489932886,-0.0016778523489932886
+difference_drmaa-python.GEMINI.V02.RedundantPrint.csv,0,0,0.0,0.0

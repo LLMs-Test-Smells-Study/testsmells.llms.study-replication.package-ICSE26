@@ -1,0 +1,7 @@
+Unnamed: 0,total,lost_coverage_lines,improve_coverage_lines
+LINE_MISSED,0.0,0.0,0.0
+LINE_COVERED,0.0,0.0,0.0
+LINE_COVERED,22.0,22.0,0.0
+LINE_COVERED,0.0,0.0,0.0
+LINE_MISSED,0.0,0.0,0.0
+LINE_MISSED,-22.0,0.0,-22.0

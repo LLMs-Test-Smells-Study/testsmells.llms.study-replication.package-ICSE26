@@ -1,0 +1,4 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_pippo.GPT4.VF.SleepyTest.csv,3,39,0.025423728813559324,0.3305084745762712
+difference_dropwizard.GPT4.VF.SleepyTest.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_elastic-job-lite.GPT4.VF.SleepyTest.csv,0,5688,0.0,18.52768729641694

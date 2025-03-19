@@ -1,0 +1,10 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_softlayer.GPT4.VF.LackCohesion.csv,0,8716,0.0,114.6842105263158
+difference_stig.GPT4.VF.LackCohesion.csv,0,0,0.0,0.0
+difference_RxPY.GPT4.VF.LackCohesion.csv,-60,-32,-0.29850746268656714,-0.15920398009950248
+difference_aws-cli.GPT4.VF.LackCohesion.csv,0,17682,0.0,82.62616822429906
+difference_grimoirelab.GPT4.VF.LackCohesion.csv,0,0,0.0,0.0
+difference_jedi.GPT4.VF.LackCohesion.csv,0,-92,0.0,-1.1219512195121952
+difference_robotframework.GPT4.VF.LackCohesion.csv,0,0,0.0,0.0
+difference_cloud-init.GPT4.VF.LackCohesion.csv,-168,34920,-0.7241379310344828,150.51724137931035
+difference_pybuilder.GPT4.VF.LackCohesion.csv,0,160,0.0,17.77777777777778

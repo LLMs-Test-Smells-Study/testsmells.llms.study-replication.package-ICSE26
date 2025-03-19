@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_softlayer.GEMINI.VF.TestMaverick.csv,0,8716,0.0,114.6842105263158
+difference_stig.GEMINI.VF.TestMaverick.csv,0,0,0.0,0.0
+difference_grimoirelab.GEMINI.VF.TestMaverick.csv,0,0,0.0,0.0
+difference_cloud-init.GEMINI.VF.TestMaverick.csv,-168,35120,-0.7241379310344828,151.3793103448276
+difference_robotframework.GEMINI.VF.TestMaverick.csv,0,0,0.0,0.0
+difference_acitoolkit.GEMINI.VF.TestMaverick.csv,-768,2,-51.2,0.13333333333333333

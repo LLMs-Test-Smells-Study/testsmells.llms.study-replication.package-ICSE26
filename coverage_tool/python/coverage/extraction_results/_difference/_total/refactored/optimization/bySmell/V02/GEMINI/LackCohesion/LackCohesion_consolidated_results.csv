@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_robotframework.GEMINI.V02.LackCohesion.csv,-136,-150,-1.2592592592592593,-1.3888888888888888
+difference_cloud-init.GEMINI.V02.LackCohesion.csv,0,-17459,0.0,-75.58008658008659
+difference_stig.GEMINI.V02.LackCohesion.csv,-27,8893,-0.48214285714285715,158.80357142857142
+difference_vhs-teletext.GEMINI.V02.LackCohesion.csv,0,-449,0.0,-10.204545454545455
+difference_grimoirelab-perceval.GEMINI.V02.LackCohesion.csv,-1,0,-0.012345679012345678,0.0
+difference_aws-cli.GEMINI.V02.LackCohesion.csv,0,-8,0.0,-0.03755868544600939
+difference_softlayer.GEMINI.V02.LackCohesion.csv,0,-13641,0.0,-81.19642857142857

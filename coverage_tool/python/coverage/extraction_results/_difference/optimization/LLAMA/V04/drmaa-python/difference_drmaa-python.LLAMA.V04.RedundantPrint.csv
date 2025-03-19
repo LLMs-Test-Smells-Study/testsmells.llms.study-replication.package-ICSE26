@@ -1,0 +1,8 @@
+File,statements,missing
+drmaa/__init__.py,0,0
+drmaa/const.py,0,0
+drmaa/errors.py,0,0
+drmaa/helpers.py,0,0
+drmaa/session.py,0,0
+drmaa/version.py,0,0
+drmaa/wrappers.py,0,0

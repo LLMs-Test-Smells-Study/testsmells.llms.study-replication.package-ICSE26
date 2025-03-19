@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.GEMINI.VF.LazyTest.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_junit-quickcheck.GEMINI.VF.LazyTest.csv,0,1298,0.0,7.292134831460674
+difference_wikidata-toolkit.GEMINI.VF.LazyTest.csv,0,7490,0.0,42.55681818181818
+difference_unix4j.GEMINI.VF.LazyTest.csv,-6,-9,-0.030612244897959183,-0.04591836734693878
+difference_elastic-job-lite.GEMINI.VF.LazyTest.csv,0,5688,0.0,18.52768729641694

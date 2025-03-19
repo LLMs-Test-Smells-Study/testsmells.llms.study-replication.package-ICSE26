@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_RxPY.GEMINI.VF.SuboptimalAssert.csv,-60,-32,-0.29850746268656714,-0.15920398009950248
+difference_pybuilder.GEMINI.VF.SuboptimalAssert.csv,0,0,0.0,0.0
+difference_stig.GEMINI.VF.SuboptimalAssert.csv,0,0,0.0,0.0
+difference_cloud-init.GEMINI.VF.SuboptimalAssert.csv,-168,34918,-0.7241379310344828,150.50862068965517
+difference_softlayer.GEMINI.VF.SuboptimalAssert.csv,0,2,0.0,0.003968253968253968
+difference_grimoirelab.GEMINI.VF.SuboptimalAssert.csv,0,0,0.0,0.0
+difference_spotipy.GEMINI.VF.SuboptimalAssert.csv,34,10,4.857142857142857,1.4285714285714286

@@ -1,0 +1,4 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_pippo.GEMINI.VF.SleepyTest.csv,3,141,0.025423728813559324,1.194915254237288
+difference_elastic-job-lite.GEMINI.VF.SleepyTest.csv,0,5688,0.0,18.52768729641694
+difference_dropwizard.GEMINI.VF.SleepyTest.csv,-5,-4,-0.016339869281045753,-0.013071895424836602

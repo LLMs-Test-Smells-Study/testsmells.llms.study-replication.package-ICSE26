@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.LLAMA.V01.IgnoredTest.csv,0,27,0.0,0.10546875
+difference_aws-cli.LLAMA.V01.IgnoredTest.csv,0,0,0.0,0.0
+difference_acitoolkit.LLAMA.V01.IgnoredTest.csv,-5,-8,-0.3333333333333333,-0.5333333333333333
+difference_vhs-teletext.LLAMA.V01.IgnoredTest.csv,0,-941,0.0,-21.386363636363637

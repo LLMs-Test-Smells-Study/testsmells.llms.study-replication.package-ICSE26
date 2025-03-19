@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.GEMINI.VF.RedundantAssertion.csv,-168,3268,-0.6588235294117647,12.815686274509805
+difference_polling.GEMINI.VF.RedundantAssertion.csv,0,0,0.0,0.0
+difference_stig.GEMINI.VF.RedundantAssertion.csv,0,0,0.0,0.0
+difference_RxPY.GEMINI.VF.RedundantAssertion.csv,-60,-32,-0.29850746268656714,-0.15920398009950248

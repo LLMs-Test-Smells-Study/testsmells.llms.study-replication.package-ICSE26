@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_polling.GPT4.VF.RedundantAssertion.csv,13,5,4.333333333333333,1.6666666666666667
+difference_cloud-init.GPT4.VF.RedundantAssertion.csv,84,-1634,0.33070866141732286,-6.433070866141732
+difference_stig.GPT4.VF.RedundantAssertion.csv,50,9190,0.8928571428571429,164.10714285714286
+difference_RxPY.GPT4.VF.RedundantAssertion.csv,26,84,0.06701030927835051,0.21649484536082475

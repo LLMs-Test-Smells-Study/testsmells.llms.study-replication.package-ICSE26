@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aws-cli.GEMINI.V02.DuplicateAssertion.csv,0,0,0.0,0.0
+difference_RxPY.GEMINI.V02.DuplicateAssertion.csv,8,-15169,0.0311284046692607,-59.023346303501945
+difference_acitoolkit.GEMINI.V02.DuplicateAssertion.csv,28,20,1.8666666666666667,1.3333333333333333
+difference_polling.GEMINI.V02.DuplicateAssertion.csv,16,6,5.333333333333333,2.0
+difference_stig.GEMINI.V02.DuplicateAssertion.csv,0,948,0.0,16.928571428571427
+difference_robotframework.GEMINI.V02.DuplicateAssertion.csv,17,20,0.1574074074074074,0.18518518518518517
+difference_grimoirelab-perceval.GEMINI.V02.DuplicateAssertion.csv,7,5,0.08641975308641975,0.06172839506172839

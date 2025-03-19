@@ -1,0 +1,11 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.GEMINI.VF.AssertionRoulette.csv,-168,35120,-0.7241379310344828,151.3793103448276
+difference_acitoolkit.GEMINI.VF.AssertionRoulette.csv,-768,1372,-51.2,91.46666666666667
+difference_spotipy.GEMINI.VF.AssertionRoulette.csv,34,16,4.857142857142857,2.2857142857142856
+difference_pybuilder.GEMINI.VF.AssertionRoulette.csv,0,160,0.0,17.77777777777778
+difference_softlayer.GEMINI.VF.AssertionRoulette.csv,0,8716,0.0,114.6842105263158
+difference_robotframework.GEMINI.VF.AssertionRoulette.csv,0,0,0.0,0.0
+difference_grimoirelab.GEMINI.VF.AssertionRoulette.csv,0,0,0.0,0.0
+difference_RxPY.GEMINI.VF.AssertionRoulette.csv,-18,2782,-0.24,37.093333333333334
+difference_aws-cli.GEMINI.VF.AssertionRoulette.csv,0,17702,0.0,82.7196261682243
+difference_stig.GEMINI.VF.AssertionRoulette.csv,0,0,0.0,0.0

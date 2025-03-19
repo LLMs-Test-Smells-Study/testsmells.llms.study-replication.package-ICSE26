@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_jfreechart.GEMINI.VF.SensitiveEquality.csv,7,-9,0.012773722627737226,-0.016423357664233577
+difference_elastic-job-lite.GEMINI.VF.SensitiveEquality.csv,0,5688,0.0,18.52768729641694
+difference_wikidata-toolkit.GEMINI.VF.SensitiveEquality.csv,0,4306,0.0,24.46590909090909
+difference_unix4j.GEMINI.VF.SensitiveEquality.csv,-6,-9,-0.030612244897959183,-0.04591836734693878
+difference_dropwizard.GEMINI.VF.SensitiveEquality.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_pippo.GEMINI.VF.SensitiveEquality.csv,64,48,0.5423728813559322,0.4067796610169492

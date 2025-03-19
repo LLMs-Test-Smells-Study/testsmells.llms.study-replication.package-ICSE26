@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_unix4j.GPT4.VF.ExceptionHandling.csv,-481,466,-2.454081632653061,2.377551020408163
+difference_elastic-job-lite.GPT4.VF.ExceptionHandling.csv,0,5688,0.0,18.52768729641694
+difference_wikidata-toolkit.GPT4.VF.ExceptionHandling.csv,0,7490,0.0,42.55681818181818
+difference_pippo.GPT4.VF.ExceptionHandling.csv,3,39,0.025423728813559324,0.3305084745762712
+difference_junit-quickcheck.GPT4.VF.ExceptionHandling.csv,967,-953,5.432584269662922,-5.353932584269663
+difference_dropwizard.GPT4.VF.ExceptionHandling.csv,-5,1297,-0.016339869281045753,4.238562091503268

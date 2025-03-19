@@ -1,0 +1,10 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_stig.GPT4.VF.MagicNumberTest.csv,212,1084,3.7857142857142856,19.357142857142858
+difference_spotipy.GPT4.VF.MagicNumberTest.csv,-73,-88,-8.11111111111111,-9.777777777777779
+difference_aws-cli.GPT4.VF.MagicNumberTest.csv,0,-8841,0.0,-41.50704225352113
+difference_pybuilder.GPT4.VF.MagicNumberTest.csv,-35,-357,-2.3333333333333335,-23.8
+difference_grimoirelab.GPT4.VF.MagicNumberTest.csv,16,86,0.19753086419753085,1.0617283950617284
+difference_cloud-init.GPT4.VF.MagicNumberTest.csv,84,-17460,0.36363636363636365,-75.58441558441558
+difference_acitoolkit.GPT4.VF.MagicNumberTest.csv,384,-2737,25.6,-182.46666666666667
+difference_softlayer.GPT4.VF.MagicNumberTest.csv,-73,-13773,-0.43452380952380953,-81.98214285714286
+difference_RxPY.GPT4.VF.MagicNumberTest.csv,275,-14892,1.0700389105058365,-57.945525291828794

@@ -1,0 +1,197 @@
+CLASS,LINE_COVERED,LINE_MISSED
+CommandDefinitionLoader,115,-115
+CommandDefinitionLoader.XmlElement,7,-7
+CommandDefinitionLoader.XmlAttribtue,4,-4
+ResourceDataLoader,18,-18
+ClassInspectionDataLoader,0,0
+XmlUtil,36,-36
+CommandDefinitionDataLoader.new ResourceBasedDataLoader() {...},4,-4
+OptionSetDefinitionDataLoader,8,-8
+OptionSetDefinitionDataLoader.new ResourceBasedDataLoader() {...},5,-5
+CommandDefinitionDataLoader,8,-8
+EnabledOptionConstraint,0,0
+ExclusiveOptionConstraint,10,-10
+OptionGroupDef,29,-29
+OptionSetDef,6,-6
+ActiveSetDef,12,-12
+OptionSetDefinitionLoader,82,-82
+ActiveSetPermutationBuilder,26,-26
+OptionHelper,11,-11
+Constraints,13,-13
+OutputMode,0,0
+InputMode,0,0
+TypeDef,12,-12
+PackageDef,4,-4
+AbstractElementDef,31,-31
+OperandDef,6,-6
+MethodDef,6,-6
+OptionDef,8,-8
+CommandDef,14,-14
+GenericCommandBuilder,0,13
+GenericCommandBuilder.MethodSignature,0,30
+GenericCommandBuilder.GenericCommandHandler,0,31
+DefaultCommandBuilder.new Output() {...},0,4
+DefaultCommandBuilder,0,44
+AdHocCommand.Args,0,8
+AdHocCommand.new LineProcessor() {...},0,7
+AdHocCommand,0,3
+AdHocCommand.OperationOutput,0,14
+DerivedExecutionContext,0,64
+DefaultExecutionContext.new ExecutionContextFactory() {...},0,2
+DefaultExecutionContext,0,43
+ExecutionContextVariableResolver.Variable,0,14
+MapVariableResolver,0,11
+Arg,0,26
+SimpleVariableResolver,0,7
+DefaultVariableContext,0,20
+ExecutionContextVariableResolver,0,11
+ExecutionContextVariableResolver.Variable.new ExecutionContextVariableResolver.Variable() {...},0,2
+ExecutionContextVariableResolver.Variable.new ExecutionContextVariableResolver.Variable() {...},0,2
+ExecutionContextVariableResolver.Variable.new ExecutionContextVariableResolver.Variable() {...},0,2
+ExecutionContextVariableResolver.Variable.new ExecutionContextVariableResolver.Variable() {...},0,2
+ExecutionContextVariableResolver.Variable.new ExecutionContextVariableResolver.Variable() {...},0,2
+NoOp.Args,0,2
+NoOp,0,5
+AbstractCommand,0,9
+ExitValueException,0,17
+JoinedCommand,0,16
+PatternConverters,0,3
+OptionSetConverters.OptionSetConverter,0,5
+EnumConverters.StringToEnumConverter,0,9
+LongConverters.new ValueConverter() {...},0,6
+OptionSetConverters.OptionNameStringToSingletonSetConverter,0,13
+OptionSetConverters.OptionToSingletonSetConverter,0,7
+CompositeValueConverter,0,16
+CharacterConverters.new ValueConverter() {...},0,4
+PatternConverters.new ValueConverter() {...},0,5
+StringConverters.new ValueConverter() {...},0,4
+FileArrayConverters.new ValueConverter() {...},0,10
+FileArrayConverters.new ValueConverter() {...},0,4
+DefaultConverterRegistry,0,32
+CharacterConverters.new ValueConverter() {...},0,6
+FileArrayConverters.new ValueConverter() {...},0,4
+FileConverters,0,5
+FileArrayConverters,0,10
+RangeConverters.new ValueConverter() {...},0,37
+FileConverters.new ValueConverter() {...},0,4
+FileConverters.new ValueConverter() {...},0,4
+ListConverters.new ValueConverter() {...},0,4
+ListConverters.new ValueConverter() {...},0,6
+ListConverters.new ValueConverter() {...},0,4
+ListConverters.new ValueConverter() {...},0,9
+ListConverters.new ValueConverter() {...},0,12
+IntegerConverters.new ValueConverter() {...},0,6
+IntegerConverters.new ValueConverter() {...},0,4
+IntegerConverters.new ValueConverter() {...},0,6
+StringArrayConverters.new ValueConverter() {...},0,4
+StringArrayConverters.new ValueConverter() {...},0,10
+ConcatenatedConverter,0,8
+StringArrayConverters.new ValueConverter() {...},0,4
+StringArrayConverters.new ValueConverter() {...},0,4
+StringArrayConverters.new ValueConverter() {...},0,9
+StringArrayConverters.new ValueConverter() {...},0,4
+StringArrayConverters.new ValueConverter() {...},0,4
+LongConverters.new ValueConverter() {...},0,6
+StringArrayConverters.new ValueConverter() {...},0,4
+LongConverters.new ValueConverter() {...},0,4
+URLConverters,0,4
+CharacterConverters,0,4
+StringArrayConverters,0,19
+OptionSetConverters.IterableOfOptionNameOrAcronymToOptionSetConverter,0,18
+OptionSetConverters,0,5
+DateConverters.StringToDateConverter,0,10
+URLConverters.new ValueConverter() {...},0,6
+URLConverters.new ValueConverter() {...},0,6
+DateConverters.new ValueConverter() {...},0,4
+ListConverters,0,11
+ArrayConverters.new ValueConverter() {...},0,4
+InputStreamConverters,0,6
+ArrayConverters.new ValueConverter() {...},0,4
+OutputStreamConverters.new ValueConverter() {...},0,6
+LongConverters,0,6
+OutputStreamConverters.new ValueConverter() {...},0,6
+OutputStreamConverters,0,6
+DateConverters,0,4
+EnumConverters,0,1
+ArrayConverters,0,6
+OptionSetConverters.NameOrAcronymToOptionConverter,0,10
+OptionSetConverters.AcronymStringToOptionSetConverter,0,23
+RangeConverters,0,3
+InputStreamConverters.new ValueConverter() {...},0,6
+InputStreamConverters.new ValueConverter() {...},0,6
+StringConverters,0,2
+IntegerConverters,0,6
+DefaultOptionSet,0,75
+SingleCharSequenceLine,0,33
+SimpleLine,0,57
+Line,0,2
+StreamInput,0,2
+NullInput,0,6
+StdInput,0,3
+StringInput,0,13
+FileOutput,0,18
+NullOutput,0,8
+URLInput,0,5
+ReaderInput,0,68
+StreamOutput,0,2
+BufferedOutput,0,20
+CompositeInput,0,18
+AbstractInput,0,2
+ResourceInput,0,6
+StdOutput,0,3
+WriterOutput,0,32
+StringOutput,0,8
+FileInput,0,49
+AbstractInput.new Iterator() {...},0,7
+BufferedInput,0,13
+MultipleInputLineProcessor.new LineProcessor() {...},0,3
+InputLineProcessor,0,18
+DefaultInputProcessor,0,6
+MultipleInputLineProcessor,0,28
+RedirectInputLineProcessor,0,4
+AbstractLineProcessor,0,11
+ArrayUtil,0,13
+HashUtil,0,1
+AbstractRange,0,1
+LineUtil,0,11
+FileUtil,0,103
+RelativePathBase,0,35
+FileTestUtils,0,20
+StringUtil,0,97
+ArgsUtil,0,58
+ResourceUtil,0,6
+Counter,0,14
+CompositeRange,0,19
+Assert,0,28
+Java7Util,0,15
+OS,0,9
+StackTraceUtil,0,7
+Variables,0,11
+RelativePathBase.new RelativePathBase.Settings() {...},0,6
+Range,0,27
+RelativePathBase.new RelativePathBase.Settings() {...},0,6
+RelativePathBase.new RelativePathBase.Settings() {...},0,8
+OS.new OS() {...},0,2
+PropertyUtil,0,31
+OS.new OS() {...},0,2
+OS.new OS() {...},0,2
+OS.new OS() {...},0,2
+EqualsUtil,0,1
+CloneUtil,0,29
+Range.new AbstractRange() {...},0,3
+Range.new AbstractRange() {...},0,3
+Range.new AbstractRange() {...},0,4
+FileUtil.new FilenameFilter() {...},0,2
+FileUtil.new FilenameFilter() {...},0,2
+Range.new AbstractRange() {...},0,3
+TrimBlanksStringComparator.Mode,0,4
+DictionaryStringComparator,0,17
+CompositeComparator,0,15
+TrimBlanksStringComparator,0,26
+DecimalNumberStringComparator,0,101
+ScientificNumberStringComparator,0,22
+UnitsNumberStringComparator,0,35
+LineComparator,0,14
+MonthStringComparator,0,33
+VersionStringComparator,0,54
+ReverseOrderComparator,0,7

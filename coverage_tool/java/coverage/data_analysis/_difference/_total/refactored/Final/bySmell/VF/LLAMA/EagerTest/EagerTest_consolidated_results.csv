@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_junit-quickcheck.LLAMA.VF.EagerTest.csv,167,-153,0.9382022471910112,-0.8595505617977528
+difference_unix4j.LLAMA.VF.EagerTest.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_wikidata-toolkit.LLAMA.VF.EagerTest.csv,0,7490,0.0,42.55681818181818
+difference_dropwizard.LLAMA.VF.EagerTest.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_elastic-job-lite.LLAMA.VF.EagerTest.csv,0,5688,0.0,18.52768729641694

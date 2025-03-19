@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_softlayer.LLAMA.VF.RedundantPrint.csv,0,142,0.0,0.28174603174603174
+difference_cloud-init.LLAMA.VF.RedundantPrint.csv,-168,3398,-0.6588235294117647,13.325490196078432
+difference_acitoolkit.LLAMA.VF.RedundantPrint.csv,-768,2,-51.2,0.13333333333333333
+difference_stig.LLAMA.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_grimoirelab.LLAMA.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_RxPY.LLAMA.VF.RedundantPrint.csv,-60,-30,-0.29850746268656714,-0.14925373134328357

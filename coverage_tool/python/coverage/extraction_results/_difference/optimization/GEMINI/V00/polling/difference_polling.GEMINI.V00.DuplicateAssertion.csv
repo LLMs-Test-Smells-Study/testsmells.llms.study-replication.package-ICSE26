@@ -1,0 +1,6 @@
+File,statements,missing
+/home/jan/laboratory/1_msc/test_smells/test-smells.llm.experiments.ufba.br/__init__.py,0,0
+/home/jan/laboratory/1_msc/test_smells/test-smells.llm.experiments.ufba.br/python/__init__.py,0,0
+polling.py,0,0
+tests/__init__.py,0,0
+tests/test_polling.py,17,6

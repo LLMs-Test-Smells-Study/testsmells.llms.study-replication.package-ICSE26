@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_vhs-teletext.LLAMA.V01.ObscureInLineSetup.csv,0,-941,0.0,-21.386363636363637
+difference_cloud-init.LLAMA.V01.ObscureInLineSetup.csv,0,0,0.0,0.0
+difference_aws-cli.LLAMA.V01.ObscureInLineSetup.csv,0,0,0.0,0.0
+difference_RxPY.LLAMA.V01.ObscureInLineSetup.csv,118,85,0.30412371134020616,0.2190721649484536
+difference_acitoolkit.LLAMA.V01.ObscureInLineSetup.csv,225,212,15.0,14.133333333333333
+difference_robotframework.LLAMA.V01.ObscureInLineSetup.csv,7,9,0.06481481481481481,0.08333333333333333

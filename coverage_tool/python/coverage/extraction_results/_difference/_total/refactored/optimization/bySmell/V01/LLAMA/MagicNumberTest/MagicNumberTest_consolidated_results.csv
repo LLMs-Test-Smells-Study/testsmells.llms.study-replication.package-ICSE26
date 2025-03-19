@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_softlayer.LLAMA.V01.MagicNumberTest.csv,0,-1,0.0,-0.0016778523489932886
+difference_grimoirelab.LLAMA.V01.MagicNumberTest.csv,154,154,1.9012345679012346,1.9012345679012346
+difference_acitoolkit.LLAMA.V01.MagicNumberTest.csv,0,0,0.0,0.0
+difference_cloud-init.LLAMA.V01.MagicNumberTest.csv,0,-42,0.0,-0.1640625
+difference_aws-cli.LLAMA.V01.MagicNumberTest.csv,0,-3,0.0,-0.014084507042253521
+difference_stig.LLAMA.V01.MagicNumberTest.csv,98,9160,1.75,163.57142857142858

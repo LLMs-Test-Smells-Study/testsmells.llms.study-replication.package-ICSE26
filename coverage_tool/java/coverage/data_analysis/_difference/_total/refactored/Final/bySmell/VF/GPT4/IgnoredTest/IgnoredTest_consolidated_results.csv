@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_unix4j.GPT4.VF.IgnoredTest.csv,-481,466,-2.454081632653061,2.377551020408163
+difference_elastic-job-lite.GPT4.VF.IgnoredTest.csv,0,5688,0.0,18.52768729641694
+difference_marine-api.GPT4.VF.IgnoredTest.csv,0,0,0.0,0.0
+difference_pippo.GPT4.VF.IgnoredTest.csv,3,0,0.025423728813559324,0.0

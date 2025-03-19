@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.GEMINI.VF.DuplicateAssertion.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_junit-quickcheck.GEMINI.VF.DuplicateAssertion.csv,2565,-2551,14.410112359550562,-14.331460674157304
+difference_pippo.GEMINI.VF.DuplicateAssertion.csv,64,48,0.5423728813559322,0.4067796610169492
+difference_marine-api.GEMINI.VF.DuplicateAssertion.csv,0,0,0.0,0.0
+difference_wikidata-toolkit.GEMINI.VF.DuplicateAssertion.csv,0,0,0.0,0.0

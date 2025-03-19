@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_elastic-job-lite.GEMINI.VF.ExceptionHandling.csv,0,5688,0.0,18.52768729641694
+difference_marine-api.GEMINI.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_junit-quickcheck.GEMINI.VF.ExceptionHandling.csv,1094,-1080,6.146067415730337,-6.067415730337078
+difference_wikidata-toolkit.GEMINI.VF.ExceptionHandling.csv,0,7490,0.0,42.55681818181818
+difference_dropwizard.GEMINI.VF.ExceptionHandling.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_pippo.GEMINI.VF.ExceptionHandling.csv,3,0,0.025423728813559324,0.0

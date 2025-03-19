@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_wikidata-toolkit.LLAMA.VF.AssertionRoulette.csv,0,7490,0.0,42.55681818181818
+difference_pippo.LLAMA.VF.AssertionRoulette.csv,3,0,0.025423728813559324,0.0
+difference_dropwizard.LLAMA.VF.AssertionRoulette.csv,-5,1297,-0.016339869281045753,4.238562091503268
+difference_elastic-job-lite.LLAMA.VF.AssertionRoulette.csv,0,5688,0.0,18.52768729641694
+difference_unix4j.LLAMA.VF.AssertionRoulette.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_junit-quickcheck.LLAMA.VF.AssertionRoulette.csv,-34,48,-0.19101123595505617,0.2696629213483146

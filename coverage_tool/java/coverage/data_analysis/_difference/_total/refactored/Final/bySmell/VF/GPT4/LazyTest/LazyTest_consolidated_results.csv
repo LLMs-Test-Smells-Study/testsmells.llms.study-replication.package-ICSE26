@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_unix4j.GPT4.VF.LazyTest.csv,-481,466,-2.454081632653061,2.377551020408163
+difference_junit-quickcheck.GPT4.VF.LazyTest.csv,959,-945,5.387640449438202,-5.308988764044944
+difference_marine-api.GPT4.VF.LazyTest.csv,0,0,0.0,0.0
+difference_wikidata-toolkit.GPT4.VF.LazyTest.csv,-5,3226,-0.028409090909090908,18.329545454545453
+difference_elastic-job-lite.GPT4.VF.LazyTest.csv,0,5688,0.0,18.52768729641694
+difference_dropwizard.GPT4.VF.LazyTest.csv,-5,1297,-0.016339869281045753,4.238562091503268

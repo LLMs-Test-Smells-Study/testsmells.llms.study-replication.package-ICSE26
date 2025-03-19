@@ -1,0 +1,4 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_pippo.GEMINI.VF.IgnoredTest.csv,3,0,0.025423728813559324,0.0
+difference_elastic-job-lite.GEMINI.VF.IgnoredTest.csv,0,5688,0.0,18.52768729641694
+difference_unix4j.GEMINI.VF.IgnoredTest.csv,-475,2807,-2.423469387755102,14.321428571428571

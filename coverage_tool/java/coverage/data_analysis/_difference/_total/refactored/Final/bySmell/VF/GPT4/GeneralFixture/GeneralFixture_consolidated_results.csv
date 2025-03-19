@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_redpipe.GPT4.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_dropwizard.GPT4.VF.GeneralFixture.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_junit-quickcheck.GPT4.VF.GeneralFixture.csv,34,-20,0.19101123595505617,-0.11235955056179775
+difference_unix4j.GPT4.VF.GeneralFixture.csv,-509,494,-2.5969387755102042,2.520408163265306
+difference_wikidata-toolkit.GPT4.VF.GeneralFixture.csv,-94,94,-0.5340909090909091,0.5340909090909091

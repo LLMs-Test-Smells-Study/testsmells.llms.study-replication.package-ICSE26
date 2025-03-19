@@ -1,0 +1,9 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_grimoirelab-perceval.GEMINI.V02.ConditionalTestLogic.csv,-13,-26,-0.16049382716049382,-0.32098765432098764
+difference_softlayer.GEMINI.V02.ConditionalTestLogic.csv,-3,-13658,-0.017857142857142856,-81.29761904761905
+difference_cloud-init.GEMINI.V02.ConditionalTestLogic.csv,0,-17460,0.0,-75.58441558441558
+difference_vhs-teletext.GEMINI.V02.ConditionalTestLogic.csv,0,-449,0.0,-10.204545454545455
+difference_stig.GEMINI.V02.ConditionalTestLogic.csv,76,1011,1.3571428571428572,18.053571428571427
+difference_acitoolkit.GEMINI.V02.ConditionalTestLogic.csv,0,-1,0.0,-0.06666666666666667
+difference_aws-cli.GEMINI.V02.ConditionalTestLogic.csv,0,-8841,0.0,-41.50704225352113
+difference_robotframework.GEMINI.V02.ConditionalTestLogic.csv,-8,-35,-0.07407407407407407,-0.32407407407407407

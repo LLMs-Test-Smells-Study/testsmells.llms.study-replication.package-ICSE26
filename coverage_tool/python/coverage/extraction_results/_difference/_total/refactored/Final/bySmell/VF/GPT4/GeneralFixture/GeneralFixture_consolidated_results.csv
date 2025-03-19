@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.GPT4.VF.GeneralFixture.csv,84,-17459,0.36363636363636365,-75.58008658008659
+difference_grimoirelab.GPT4.VF.GeneralFixture.csv,224,213,2.765432098765432,2.6296296296296298
+difference_robotframework.GPT4.VF.GeneralFixture.csv,214,50,1.9814814814814814,0.46296296296296297
+difference_spotipy.GPT4.VF.GeneralFixture.csv,-35,-5,-3.888888888888889,-0.5555555555555556
+difference_aws-cli.GPT4.VF.GeneralFixture.csv,0,-8851,0.0,-41.55399061032864
+difference_stig.GPT4.VF.GeneralFixture.csv,230,1148,4.107142857142857,20.5
+difference_softlayer.GPT4.VF.GeneralFixture.csv,-1,-13622,-0.005952380952380952,-81.08333333333333

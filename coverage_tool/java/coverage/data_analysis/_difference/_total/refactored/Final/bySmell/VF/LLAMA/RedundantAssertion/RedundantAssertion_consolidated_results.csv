@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aismessages.LLAMA.VF.RedundantAssertion.csv,0,0,0.0,0.0
+difference_redpipe.LLAMA.VF.RedundantAssertion.csv,0,155,0.0,2.3134328358208953
+difference_junit-quickcheck.LLAMA.VF.RedundantAssertion.csv,-34,48,-0.19101123595505617,0.2696629213483146
+difference_unix4j.LLAMA.VF.RedundantAssertion.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_wikidata-toolkit.LLAMA.VF.RedundantAssertion.csv,0,7490,0.0,42.55681818181818

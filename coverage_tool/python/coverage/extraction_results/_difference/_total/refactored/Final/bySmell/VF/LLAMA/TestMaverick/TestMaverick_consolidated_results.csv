@@ -1,0 +1,9 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.LLAMA.VF.TestMaverick.csv,84,-17470,0.36363636363636365,-75.62770562770562
+difference_aws-cli.LLAMA.VF.TestMaverick.csv,0,-8841,0.0,-41.50704225352113
+difference_acitoolkit.LLAMA.VF.TestMaverick.csv,416,23,27.733333333333334,1.5333333333333334
+difference_vhs-teletext.LLAMA.VF.TestMaverick.csv,0,-35,0.0,-0.7954545454545454
+difference_stig.LLAMA.VF.TestMaverick.csv,286,1199,5.2,21.8
+difference_softlayer.LLAMA.VF.TestMaverick.csv,-7,-13629,-0.041666666666666664,-81.125
+difference_robotframework.LLAMA.VF.TestMaverick.csv,637,300,5.898148148148148,2.7777777777777777
+difference_grimoirelab.LLAMA.VF.TestMaverick.csv,282,232,3.4814814814814814,2.8641975308641974

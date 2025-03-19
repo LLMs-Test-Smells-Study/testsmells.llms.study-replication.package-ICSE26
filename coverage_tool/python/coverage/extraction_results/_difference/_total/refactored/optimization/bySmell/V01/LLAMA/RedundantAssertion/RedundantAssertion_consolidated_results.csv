@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.LLAMA.V01.RedundantAssertion.csv,0,0,0.0,0.0
+difference_stig.LLAMA.V01.RedundantAssertion.csv,42,959,0.75,17.125
+difference_RxPY.LLAMA.V01.RedundantAssertion.csv,42,89,0.10824742268041238,0.22938144329896906
+difference_polling.LLAMA.V01.RedundantAssertion.csv,23,6,4.6,1.2

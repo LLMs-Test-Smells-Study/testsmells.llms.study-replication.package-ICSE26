@@ -1,0 +1,4 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_pippo.GPT4.VF.RedundantPrint.csv,3,39,0.025423728813559324,0.3305084745762712
+difference_aismessages.GPT4.VF.RedundantPrint.csv,-187,187,-2.527027027027027,2.527027027027027
+difference_unix4j.GPT4.VF.RedundantPrint.csv,-695,680,-3.545918367346939,3.4693877551020407

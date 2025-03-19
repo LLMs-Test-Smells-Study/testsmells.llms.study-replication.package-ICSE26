@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_acitoolkit.LLAMA.VF.SleepyTest.csv,384,-3,25.6,-0.2
+difference_RxPY.LLAMA.VF.SleepyTest.csv,483,-14675,1.9015748031496063,-57.775590551181104
+difference_aws-cli.LLAMA.VF.SleepyTest.csv,0,0,0.0,0.0
+difference_robotframework.LLAMA.VF.SleepyTest.csv,-7,-29,-0.06481481481481481,-0.26851851851851855

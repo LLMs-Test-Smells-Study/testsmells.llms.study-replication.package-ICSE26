@@ -1,0 +1,11 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_jedi.GEMINI.V02.UnknownTest.csv,-11,-6358,-0.07692307692307693,-44.46153846153846
+difference_grimoirelab-perceval.GEMINI.V02.UnknownTest.csv,0,0,0.0,0.0
+difference_aws-cli.GEMINI.V02.UnknownTest.csv,0,-8841,0.0,-41.50704225352113
+difference_RxPY.GEMINI.V02.UnknownTest.csv,-5,-15175,-0.019455252918287938,-59.04669260700389
+difference_pybuilder.GEMINI.V02.UnknownTest.csv,0,0,0.0,0.0
+difference_robotframework.GEMINI.V02.UnknownTest.csv,-20,-80,-0.18518518518518517,-0.7407407407407407
+difference_stig.GEMINI.V02.UnknownTest.csv,-5,9190,-0.08928571428571429,164.10714285714286
+difference_vhs-teletext.GEMINI.V02.UnknownTest.csv,0,-449,0.0,-10.204545454545455
+difference_acitoolkit.GEMINI.V02.UnknownTest.csv,0,-1,0.0,-0.06666666666666667
+difference_cloud-init.GEMINI.V02.UnknownTest.csv,0,0,0.0,0.0

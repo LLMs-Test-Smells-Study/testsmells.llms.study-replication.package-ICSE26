@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_grimoirelab.LLAMA.V01.TestMaverick.csv,181,181,2.234567901234568,2.234567901234568
+difference_robotframework.LLAMA.V01.TestMaverick.csv,156,129,1.4444444444444444,1.1944444444444444
+difference_aws-cli.LLAMA.V01.TestMaverick.csv,0,0,0.0,0.0
+difference_cloud-init.LLAMA.V01.TestMaverick.csv,0,-25,0.0,-0.09765625
+difference_stig.LLAMA.V01.TestMaverick.csv,85,9187,1.5178571428571428,164.05357142857142

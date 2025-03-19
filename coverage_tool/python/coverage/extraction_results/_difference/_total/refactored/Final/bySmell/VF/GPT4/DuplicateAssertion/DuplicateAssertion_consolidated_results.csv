@@ -1,0 +1,11 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_polling.GPT4.VF.DuplicateAssertion.csv,10,5,3.3333333333333335,1.6666666666666667
+difference_spotipy.GPT4.VF.DuplicateAssertion.csv,-35,-5,-3.888888888888889,-0.5555555555555556
+difference_grimoirelab.GPT4.VF.DuplicateAssertion.csv,1521,1500,18.77777777777778,18.51851851851852
+difference_cloud-init.GPT4.VF.DuplicateAssertion.csv,84,-17459,0.36363636363636365,-75.58008658008659
+difference_stig.GPT4.VF.DuplicateAssertion.csv,418,1386,7.464285714285714,24.75
+difference_robotframework.GPT4.VF.DuplicateAssertion.csv,40,33,0.37037037037037035,0.3055555555555556
+difference_RxPY.GPT4.VF.DuplicateAssertion.csv,229,45,0.5902061855670103,0.11597938144329897
+difference_pybuilder.GPT4.VF.DuplicateAssertion.csv,-5,6,-0.3333333333333333,0.4
+difference_softlayer.GPT4.VF.DuplicateAssertion.csv,12,-13651,0.07142857142857142,-81.25595238095238
+difference_aws-cli.GPT4.VF.DuplicateAssertion.csv,0,-8841,0.0,-41.50704225352113

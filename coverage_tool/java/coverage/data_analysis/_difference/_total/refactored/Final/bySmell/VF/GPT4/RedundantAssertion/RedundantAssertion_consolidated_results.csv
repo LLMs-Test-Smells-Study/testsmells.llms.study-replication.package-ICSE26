@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_wikidata-toolkit.GPT4.VF.RedundantAssertion.csv,0,7490,0.0,42.55681818181818
+difference_aismessages.GPT4.VF.RedundantAssertion.csv,0,0,0.0,0.0
+difference_redpipe.GPT4.VF.RedundantAssertion.csv,0,100,0.0,1.492537313432836
+difference_junit-quickcheck.GPT4.VF.RedundantAssertion.csv,-34,48,-0.19101123595505617,0.2696629213483146
+difference_unix4j.GPT4.VF.RedundantAssertion.csv,-6,-9,-0.030612244897959183,-0.04591836734693878

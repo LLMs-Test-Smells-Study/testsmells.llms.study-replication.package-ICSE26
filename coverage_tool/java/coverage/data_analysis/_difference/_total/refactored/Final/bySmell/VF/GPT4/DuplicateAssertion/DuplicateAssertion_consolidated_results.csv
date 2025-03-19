@@ -1,0 +1,4 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_wikidata-toolkit.GPT4.VF.DuplicateAssertion.csv,-1,1,-0.005681818181818182,0.005681818181818182
+difference_dropwizard.GPT4.VF.DuplicateAssertion.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_unix4j.GPT4.VF.DuplicateAssertion.csv,-1169,1154,-5.964285714285714,5.887755102040816

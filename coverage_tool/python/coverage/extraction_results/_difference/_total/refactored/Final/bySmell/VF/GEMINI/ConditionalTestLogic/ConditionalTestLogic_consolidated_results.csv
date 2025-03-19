@@ -1,0 +1,12 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_RxPY.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_aws-cli.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_spotipy.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_vhs-teletext.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_robotframework.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_jedi.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_pybuilder.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_stig.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_grimoirelab.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_softlayer.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0
+difference_cloud-init.GEMINI.VF.ConditionalTestLogic.csv,0,0,0.0,0.0

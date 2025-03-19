@@ -1,0 +1,11 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_grimoirelab.LLAMA.VF.UnknownTest.csv,-99,-99,-1.2222222222222223,-1.2222222222222223
+difference_softlayer.LLAMA.VF.UnknownTest.csv,85,-13577,0.5059523809523809,-80.81547619047619
+difference_RxPY.LLAMA.VF.UnknownTest.csv,362,-14867,1.4085603112840468,-57.84824902723735
+difference_vhs-teletext.LLAMA.VF.UnknownTest.csv,0,-11,0.0,-0.25
+difference_cloud-init.LLAMA.VF.UnknownTest.csv,84,-17459,0.36363636363636365,-75.58008658008659
+difference_jedi.LLAMA.VF.UnknownTest.csv,-7,31,-0.04861111111111111,0.2152777777777778
+difference_pybuilder.LLAMA.VF.UnknownTest.csv,126,-18,8.4,-1.2
+difference_robotframework.LLAMA.VF.UnknownTest.csv,814,105,7.537037037037037,0.9722222222222222
+difference_stig.LLAMA.VF.UnknownTest.csv,437,1060,7.803571428571429,18.928571428571427
+difference_aws-cli.LLAMA.VF.UnknownTest.csv,0,-8841,0.0,-41.50704225352113

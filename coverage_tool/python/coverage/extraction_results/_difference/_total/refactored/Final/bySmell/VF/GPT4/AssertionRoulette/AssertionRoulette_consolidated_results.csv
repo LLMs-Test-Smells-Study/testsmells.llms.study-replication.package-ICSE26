@@ -1,0 +1,12 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aws-cli.GPT4.VF.AssertionRoulette.csv,0,-8841,0.0,-41.50704225352113
+difference_RxPY.GPT4.VF.AssertionRoulette.csv,446,-14762,1.735408560311284,-57.43968871595331
+difference_robotframework.GPT4.VF.AssertionRoulette.csv,-31,-42,-0.28703703703703703,-0.3888888888888889
+difference_stig.GPT4.VF.AssertionRoulette.csv,161,883,2.875,15.767857142857142
+difference_jedi.GPT4.VF.AssertionRoulette.csv,0,45,0.0,0.3125
+difference_spotipy.GPT4.VF.AssertionRoulette.csv,-41,-62,-4.555555555555555,-6.888888888888889
+difference_softlayer.GPT4.VF.AssertionRoulette.csv,-51,-13738,-0.30357142857142855,-81.77380952380952
+difference_acitoolkit.GPT4.VF.AssertionRoulette.csv,424,-1986,28.266666666666666,-132.4
+difference_cloud-init.GPT4.VF.AssertionRoulette.csv,84,-17460,0.36363636363636365,-75.58441558441558
+difference_grimoirelab.GPT4.VF.AssertionRoulette.csv,336,359,4.148148148148148,4.432098765432099
+difference_pybuilder.GPT4.VF.AssertionRoulette.csv,-20,-304,-1.3333333333333333,-20.266666666666666

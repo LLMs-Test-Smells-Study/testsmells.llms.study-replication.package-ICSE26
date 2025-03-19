@@ -1,0 +1,10 @@
+File,statements,missing
+spotipy/__init__.py,0,0
+spotipy/cache_handler.py,1,1
+spotipy/client.py,-6,-5
+spotipy/exceptions.py,0,0
+spotipy/oauth2.py,-12,0
+spotipy/util.py,0,-1
+tests/__init__.py,0,0
+tests/unit/__init__.py,0,0
+tests/unit/test_oauth.py,-30,0

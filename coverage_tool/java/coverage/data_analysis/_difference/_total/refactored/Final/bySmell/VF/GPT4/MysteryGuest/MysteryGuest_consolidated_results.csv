@@ -1,0 +1,3 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.GPT4.VF.MysteryGuest.csv,0,4793,0.0,15.663398692810457
+difference_unix4j.GPT4.VF.MysteryGuest.csv,-554,539,-2.826530612244898,2.75

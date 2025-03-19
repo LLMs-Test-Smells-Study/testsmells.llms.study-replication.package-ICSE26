@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_robotframework.GEMINI.V02.TestMaverick.csv,-11,-68,-0.10185185185185185,-0.6296296296296297
+difference_stig.GEMINI.V02.TestMaverick.csv,-6,9178,-0.10714285714285714,163.89285714285714
+difference_aws-cli.GEMINI.V02.TestMaverick.csv,0,-8841,0.0,-41.50704225352113
+difference_grimoirelab-perceval.GEMINI.V02.TestMaverick.csv,-11,-11,-0.13580246913580246,-0.13580246913580246
+difference_cloud-init.GEMINI.V02.TestMaverick.csv,0,-17459,0.0,-75.58008658008659

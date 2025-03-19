@@ -1,0 +1,10 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_stig.GPT4.VF.UnknownTest.csv,228,787,4.071428571428571,14.053571428571429
+difference_pybuilder.GPT4.VF.UnknownTest.csv,108,2,7.2,0.13333333333333333
+difference_cloud-init.GPT4.VF.UnknownTest.csv,84,-17459,0.36363636363636365,-75.58008658008659
+difference_jedi.GPT4.VF.UnknownTest.csv,4,69,0.027777777777777776,0.4791666666666667
+difference_grimoirelab.GPT4.VF.UnknownTest.csv,-182,-182,-2.246913580246914,-2.246913580246914
+difference_softlayer.GPT4.VF.UnknownTest.csv,-32,-113,-0.05378151260504202,-0.1899159663865546
+difference_robotframework.GPT4.VF.UnknownTest.csv,-145,-350,-1.3425925925925926,-3.240740740740741
+difference_RxPY.GPT4.VF.UnknownTest.csv,74,-15093,0.28793774319066145,-58.72762645914397
+difference_aws-cli.GPT4.VF.UnknownTest.csv,0,-8841,0.0,-41.50704225352113

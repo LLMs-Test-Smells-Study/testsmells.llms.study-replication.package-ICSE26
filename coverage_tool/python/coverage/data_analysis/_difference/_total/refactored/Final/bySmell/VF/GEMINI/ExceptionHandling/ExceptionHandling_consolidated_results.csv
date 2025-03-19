@@ -1,0 +1,11 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_RxPY.GEMINI.VF.ExceptionHandling.csv,-18,2782,-0.24,37.093333333333334
+difference_grimoirelab.GEMINI.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_jedi.GEMINI.VF.ExceptionHandling.csv,0,9328,0.0,115.1604938271605
+difference_pybuilder.GEMINI.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_spotipy.GEMINI.VF.ExceptionHandling.csv,34,10,4.857142857142857,1.4285714285714286
+difference_cloud-init.GEMINI.VF.ExceptionHandling.csv,-168,34918,-0.7241379310344828,150.50862068965517
+difference_softlayer.GEMINI.VF.ExceptionHandling.csv,0,8716,0.0,114.6842105263158
+difference_polling.GEMINI.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_stig.GEMINI.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_robotframework.GEMINI.VF.ExceptionHandling.csv,0,0,0.0,0.0

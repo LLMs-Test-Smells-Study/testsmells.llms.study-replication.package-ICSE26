@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_stig.LLAMA.V01.ConditionalTestLogic.csv,247,9184,4.410714285714286,164.0
+difference_softlayer.LLAMA.V01.ConditionalTestLogic.csv,-4,0,-0.006711409395973154,0.0
+difference_aws-cli.LLAMA.V01.ConditionalTestLogic.csv,0,-74,0.0,-0.3474178403755869
+difference_grimoirelab.LLAMA.V01.ConditionalTestLogic.csv,35,37,0.43209876543209874,0.4567901234567901
+difference_vhs-teletext.LLAMA.V01.ConditionalTestLogic.csv,0,-941,0.0,-21.386363636363637
+difference_cloud-init.LLAMA.V01.ConditionalTestLogic.csv,0,-17,0.0,-0.06640625
+difference_robotframework.LLAMA.V01.ConditionalTestLogic.csv,19,19,0.17592592592592593,0.17592592592592593

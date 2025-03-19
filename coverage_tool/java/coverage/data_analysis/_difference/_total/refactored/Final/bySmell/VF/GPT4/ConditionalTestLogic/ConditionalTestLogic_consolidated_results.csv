@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_unix4j.GPT4.VF.ConditionalTestLogic.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_dropwizard.GPT4.VF.ConditionalTestLogic.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_marine-api.GPT4.VF.ConditionalTestLogic.csv,-2,2,-0.014388489208633094,0.014388489208633094
+difference_elastic-job-lite.GPT4.VF.ConditionalTestLogic.csv,0,5688,0.0,18.52768729641694
+difference_jfreechart.GPT4.VF.ConditionalTestLogic.csv,7,-9,0.012773722627737226,-0.016423357664233577

@@ -1,0 +1,16 @@
+File,statements,missing
+src/main/python/pybuilder/__init__.py,0,0
+src/main/python/pybuilder/_vendor/__init__.py,0,0
+src/main/python/pybuilder/_vendor/colorama/__init__.py,0,0
+src/main/python/pybuilder/_vendor/colorama/ansi.py,0,0
+src/main/python/pybuilder/_vendor/colorama/ansitowin32.py,0,-80
+src/main/python/pybuilder/_vendor/colorama/initialise.py,0,0
+src/main/python/pybuilder/_vendor/colorama/tests/__init__.py,0,0
+src/main/python/pybuilder/_vendor/colorama/tests/ansi_test.py,0,-41
+src/main/python/pybuilder/_vendor/colorama/tests/ansitowin32_test.py,130,-1
+src/main/python/pybuilder/_vendor/colorama/tests/initialise_test.py,-2,-4
+src/main/python/pybuilder/_vendor/colorama/tests/isatty_test.py,0,-28
+src/main/python/pybuilder/_vendor/colorama/tests/utils.py,0,-25
+src/main/python/pybuilder/_vendor/colorama/tests/winterm_test.py,-3,0
+src/main/python/pybuilder/_vendor/colorama/win32.py,0,0
+src/main/python/pybuilder/_vendor/colorama/winterm.py,0,0

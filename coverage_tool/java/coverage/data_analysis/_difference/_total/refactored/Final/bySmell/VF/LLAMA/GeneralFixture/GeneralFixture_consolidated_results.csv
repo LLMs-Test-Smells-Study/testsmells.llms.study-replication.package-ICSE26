@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_unix4j.LLAMA.VF.GeneralFixture.csv,-496,481,-2.5306122448979593,2.454081632653061
+difference_dropwizard.LLAMA.VF.GeneralFixture.csv,-5,1297,-0.016339869281045753,4.238562091503268
+difference_redpipe.LLAMA.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_wikidata-toolkit.LLAMA.VF.GeneralFixture.csv,0,7490,0.0,42.55681818181818

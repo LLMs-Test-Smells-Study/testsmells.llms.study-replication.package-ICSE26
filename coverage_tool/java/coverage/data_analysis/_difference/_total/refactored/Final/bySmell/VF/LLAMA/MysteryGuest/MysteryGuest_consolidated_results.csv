@@ -1,0 +1,3 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.LLAMA.VF.MysteryGuest.csv,0,4793,0.0,15.663398692810457
+difference_unix4j.LLAMA.VF.MysteryGuest.csv,-475,2807,-2.423469387755102,14.321428571428571

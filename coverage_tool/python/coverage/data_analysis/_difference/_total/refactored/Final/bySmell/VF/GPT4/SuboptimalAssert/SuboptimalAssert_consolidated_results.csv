@@ -1,0 +1,9 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_grimoirelab.GPT4.VF.SuboptimalAssert.csv,0,0,0.0,0.0
+difference_softlayer.GPT4.VF.SuboptimalAssert.csv,0,2,0.0,0.003968253968253968
+difference_spotipy.GPT4.VF.SuboptimalAssert.csv,34,10,4.857142857142857,1.4285714285714286
+difference_cloud-init.GPT4.VF.SuboptimalAssert.csv,-168,3612,-0.6588235294117647,14.16470588235294
+difference_RxPY.GPT4.VF.SuboptimalAssert.csv,-60,-32,-0.29850746268656714,-0.15920398009950248
+difference_pybuilder.GPT4.VF.SuboptimalAssert.csv,0,0,0.0,0.0
+difference_aws-cli.GPT4.VF.SuboptimalAssert.csv,0,17682,0.0,82.62616822429906
+difference_stig.GPT4.VF.SuboptimalAssert.csv,0,0,0.0,0.0

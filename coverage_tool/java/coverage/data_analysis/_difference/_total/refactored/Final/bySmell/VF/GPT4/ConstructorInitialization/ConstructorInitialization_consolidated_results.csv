@@ -1,0 +1,3 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_elastic-job-lite.GPT4.VF.ConstructorInitialization.csv,0,5688,0.0,18.52768729641694
+difference_redpipe.GPT4.VF.ConstructorInitialization.csv,0,0,0.0,0.0

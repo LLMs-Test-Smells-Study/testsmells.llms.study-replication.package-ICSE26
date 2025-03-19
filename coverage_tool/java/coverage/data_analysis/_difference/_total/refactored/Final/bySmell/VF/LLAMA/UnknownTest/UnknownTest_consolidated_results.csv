@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.LLAMA.VF.UnknownTest.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_search-highlighter.LLAMA.VF.UnknownTest.csv,-834,2004,-7.867924528301887,18.90566037735849
+difference_pippo.LLAMA.VF.UnknownTest.csv,64,48,0.5423728813559322,0.4067796610169492
+difference_elastic-job-lite.LLAMA.VF.UnknownTest.csv,0,5688,0.0,18.52768729641694
+difference_unix4j.LLAMA.VF.UnknownTest.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_jfreechart.LLAMA.VF.UnknownTest.csv,7,-9,0.012773722627737226,-0.016423357664233577
+difference_wikidata-toolkit.LLAMA.VF.UnknownTest.csv,0,988,0.0,5.613636363636363

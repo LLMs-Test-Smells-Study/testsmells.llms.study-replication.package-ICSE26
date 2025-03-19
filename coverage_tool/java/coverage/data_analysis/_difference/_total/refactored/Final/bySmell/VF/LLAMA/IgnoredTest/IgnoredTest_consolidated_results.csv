@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_elastic-job-lite.LLAMA.VF.IgnoredTest.csv,0,5688,0.0,18.52768729641694
+difference_unix4j.LLAMA.VF.IgnoredTest.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_marine-api.LLAMA.VF.IgnoredTest.csv,0,0,0.0,0.0
+difference_pippo.LLAMA.VF.IgnoredTest.csv,3,0,0.025423728813559324,0.0

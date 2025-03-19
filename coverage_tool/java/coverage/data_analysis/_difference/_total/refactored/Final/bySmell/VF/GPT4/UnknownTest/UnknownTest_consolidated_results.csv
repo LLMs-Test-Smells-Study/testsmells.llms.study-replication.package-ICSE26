@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.GPT4.VF.UnknownTest.csv,-7,1299,-0.02287581699346405,4.245098039215686
+difference_elastic-job-lite.GPT4.VF.UnknownTest.csv,0,5688,0.0,18.52768729641694
+difference_pippo.GPT4.VF.UnknownTest.csv,64,48,0.5423728813559322,0.4067796610169492
+difference_unix4j.GPT4.VF.UnknownTest.csv,-1,2333,-0.00510204081632653,11.903061224489797
+difference_junit-quickcheck.GPT4.VF.UnknownTest.csv,0,1298,0.0,7.292134831460674
+difference_wikidata-toolkit.GPT4.VF.UnknownTest.csv,3,-3,0.017045454545454544,-0.017045454545454544
+difference_search-highlighter.GPT4.VF.UnknownTest.csv,-834,2004,-7.867924528301887,18.90566037735849

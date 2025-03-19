@@ -1,0 +1,2 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aws-cli.GEMINI.VF.EmptyTest.csv,0,17682,0.0,82.62616822429906

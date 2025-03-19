@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.LLAMA.VF.SensitiveEquality.csv,-5,-4,-0.016339869281045753,-0.013071895424836602
+difference_unix4j.LLAMA.VF.SensitiveEquality.csv,-481,466,-2.454081632653061,2.377551020408163
+difference_elastic-job-lite.LLAMA.VF.SensitiveEquality.csv,0,5688,0.0,18.52768729641694
+difference_pippo.LLAMA.VF.SensitiveEquality.csv,3,0,0.025423728813559324,0.0

@@ -1,0 +1,4 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_RxPY.GEMINI.V02.SleepyTest.csv,-29,-15180,-0.11328125,-59.296875
+difference_acitoolkit.GEMINI.V02.SleepyTest.csv,0,-1,0.0,-0.06666666666666667
+difference_aws-cli.GEMINI.V02.SleepyTest.csv,0,0,0.0,0.0

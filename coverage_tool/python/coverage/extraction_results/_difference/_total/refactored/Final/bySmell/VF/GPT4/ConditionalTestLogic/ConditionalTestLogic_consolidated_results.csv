@@ -1,0 +1,11 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_pybuilder.GPT4.VF.ConditionalTestLogic.csv,-18,-313,-1.2,-20.866666666666667
+difference_aws-cli.GPT4.VF.ConditionalTestLogic.csv,0,-8841,0.0,-41.50704225352113
+difference_jedi.GPT4.VF.ConditionalTestLogic.csv,0,45,0.0,0.3125
+difference_softlayer.GPT4.VF.ConditionalTestLogic.csv,112,-13594,0.6666666666666666,-80.91666666666667
+difference_cloud-init.GPT4.VF.ConditionalTestLogic.csv,84,-17460,0.36363636363636365,-75.58441558441558
+difference_spotipy.GPT4.VF.ConditionalTestLogic.csv,-35,-5,-3.888888888888889,-0.5555555555555556
+difference_grimoirelab.GPT4.VF.ConditionalTestLogic.csv,892,861,11.012345679012345,10.62962962962963
+difference_robotframework.GPT4.VF.ConditionalTestLogic.csv,82,-358,0.7592592592592593,-3.314814814814815
+difference_stig.GPT4.VF.ConditionalTestLogic.csv,322,882,5.75,15.75
+difference_RxPY.GPT4.VF.ConditionalTestLogic.csv,402,-14816,1.5642023346303502,-57.64980544747082

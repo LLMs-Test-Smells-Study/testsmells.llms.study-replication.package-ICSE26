@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.GPT4.VF.RedundantPrint.csv,-168,3320,-0.6588235294117647,13.019607843137255
+difference_acitoolkit.GPT4.VF.RedundantPrint.csv,-768,0,-51.2,0.0
+difference_softlayer.GPT4.VF.RedundantPrint.csv,0,138,0.0,0.27380952380952384
+difference_grimoirelab.GPT4.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_stig.GPT4.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_RxPY.GPT4.VF.RedundantPrint.csv,-18,2782,-0.24,37.093333333333334

@@ -1,0 +1,3 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_jedi.GEMINI.VF.ConstructorInitialization.csv,0,-106,0.0,-1.2926829268292683
+difference_acitoolkit.GEMINI.VF.ConstructorInitialization.csv,-768,0,-51.2,0.0

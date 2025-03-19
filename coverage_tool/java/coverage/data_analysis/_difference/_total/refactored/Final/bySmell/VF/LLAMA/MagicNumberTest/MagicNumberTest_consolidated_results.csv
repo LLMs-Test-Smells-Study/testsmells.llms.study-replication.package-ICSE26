@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.LLAMA.VF.MagicNumberTest.csv,0,4793,0.0,15.663398692810457
+difference_wikidata-toolkit.LLAMA.VF.MagicNumberTest.csv,0,7490,0.0,42.55681818181818
+difference_elastic-job-lite.LLAMA.VF.MagicNumberTest.csv,0,5688,0.0,18.52768729641694
+difference_redpipe.LLAMA.VF.MagicNumberTest.csv,0,155,0.0,2.3134328358208953
+difference_pippo.LLAMA.VF.MagicNumberTest.csv,3,0,0.025423728813559324,0.0

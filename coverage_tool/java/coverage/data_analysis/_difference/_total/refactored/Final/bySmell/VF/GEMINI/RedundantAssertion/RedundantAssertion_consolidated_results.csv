@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aismessages.GEMINI.VF.RedundantAssertion.csv,-1,1,-0.013513513513513514,0.013513513513513514
+difference_wikidata-toolkit.GEMINI.VF.RedundantAssertion.csv,0,7490,0.0,42.55681818181818
+difference_unix4j.GEMINI.VF.RedundantAssertion.csv,-475,2807,-2.423469387755102,14.321428571428571
+difference_redpipe.GEMINI.VF.RedundantAssertion.csv,0,261,0.0,3.8955223880597014

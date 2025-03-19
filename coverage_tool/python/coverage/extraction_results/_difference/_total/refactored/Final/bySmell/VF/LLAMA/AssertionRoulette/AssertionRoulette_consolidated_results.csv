@@ -1,0 +1,12 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_vhs-teletext.LLAMA.VF.AssertionRoulette.csv,0,1,0.0,0.022727272727272728
+difference_robotframework.LLAMA.VF.AssertionRoulette.csv,-5,-5,-0.046296296296296294,-0.046296296296296294
+difference_grimoirelab.LLAMA.VF.AssertionRoulette.csv,323,204,3.9876543209876543,2.5185185185185186
+difference_aws-cli.LLAMA.VF.AssertionRoulette.csv,0,-8851,0.0,-41.55399061032864
+difference_cloud-init.LLAMA.VF.AssertionRoulette.csv,84,-17471,0.36363636363636365,-75.63203463203463
+difference_pybuilder.LLAMA.VF.AssertionRoulette.csv,-38,-328,-2.533333333333333,-21.866666666666667
+difference_softlayer.LLAMA.VF.AssertionRoulette.csv,83,-13539,0.49404761904761907,-80.58928571428571
+difference_stig.LLAMA.VF.AssertionRoulette.csv,556,1106,9.928571428571429,19.75
+difference_spotipy.LLAMA.VF.AssertionRoulette.csv,-47,-5,-5.222222222222222,-0.5555555555555556
+difference_polling.LLAMA.VF.AssertionRoulette.csv,11,-58,3.6666666666666665,-19.333333333333332
+difference_RxPY.LLAMA.VF.AssertionRoulette.csv,413,-14880,1.6070038910505837,-57.8988326848249

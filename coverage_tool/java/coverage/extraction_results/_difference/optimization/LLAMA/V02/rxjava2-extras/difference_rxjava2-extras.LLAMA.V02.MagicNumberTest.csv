@@ -1,0 +1,291 @@
+CLASS,LINE_COVERED,LINE_MISSED
+Transformers,0,0
+CachedObservable,0,0
+CloseableObservableWithReset,0,0
+RingBuffer,0,0
+RingBuffer.new Iterator() {...},0,0
+OnSubscribeCacheResetable,0,0
+ZippedEntry,0,0
+Pair,0,0
+Options,0,0
+Serializers.WrappedDataSerializer,0,0
+Serializers,0,0
+Options.BuilderFlowable.new FlowableTransformer() {...},0,0
+SerializerString,0,0
+Options.BuilderObservable,0,0
+Options.BuilderFlowable,0,0
+Options.BuilderObservable.new Function() {...},0,0
+Options.FileFactoryHolder.new Callable() {...},0,0
+Options.FileFactoryHolder,0,0
+Transformers.new FlowableTransformer() {...},0,0
+Transformers.new Function() {...},0,0
+Transformers.new Function() {...},0,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.ListFactoryHolder.new BiFunction() {...},0,0
+Transformers.ListFactoryHolder.new Callable() {...},0,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.new FlowableTransformer() {...},-3,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.new FlowableTransformer() {...},-4,0
+Transformers.CollectStatsHolder.new FlowableTransformer() {...},0,0
+Transformers.4.new BiFunction() {...},0,0
+Serialized,0,0
+Serialized.ObjectInputStreamFlowableFactoryHolder,0,0
+Burst,0,0
+Serialized.KryoBuilder.2.new Consumer() {...},0,0
+Serialized.new Callable() {...},0,0
+Serialized.new Function() {...},0,0
+Serialized.new Callable() {...},0,0
+Serialized.new Consumer() {...},0,0
+Serialized.new Consumer() {...},4,4
+Serialized.ObjectInputStreamFlowableFactoryHolder.new Function() {...},0,0
+CachedFlowable,0,0
+CloseableFlowableWithReset,0,0
+Transformers.NaturalComparatorHolder.new Comparator() {...},0,0
+Transformers.12.1.new Function() {...},0,0
+Transformers.ReverseHolder,0,0
+Transformers.CollectStatsHolder,0,0
+Transformers.ReverseHolder.new FlowableTransformer() {...},0,0
+Transformers.ListFactoryHolder,0,0
+Transformers,34,4
+Transformers.12.new Callable() {...},0,0
+Burst.Builder,0,0
+Transformers.NaturalComparatorHolder,0,0
+Serialized.KryoBuilder,0,0
+Burst.new Subscription() {...},0,0
+Serialized.KryoBuilder.new Callable() {...},0,0
+Serialized.KryoBuilder.new Callable() {...},0,0
+Serialized.KryoBuilder.new Function() {...},0,0
+Serialized.KryoBuilder.new Consumer() {...},0,0
+Serialized.KryoBuilder.new Function() {...},0,0
+Strings.SplitLinesHolder.new Function() {...},0,0
+Strings.SplitLinesHolder.new Predicate() {...},0,0
+Bytes.BosCollectorHolder.new BiConsumer() {...},0,0
+Callables,0,0
+SchedulerHelper.new Runnable() {...},0,0
+RetryWhen.new Function() {...},0,0
+Bytes.BosCreatorHolder.new Callable() {...},0,0
+RetryWhen.new BiFunction() {...},0,0
+RetryWhen.new Function() {...},8,1
+RetryWhen.new Consumer() {...},0,0
+RetryWhen.Builder.ToLongHolder,0,0
+RetryWhen.new Function() {...},1,0
+Bytes.BosCreatorHolder,0,0
+RetryWhen.Builder,0,0
+Flowables.MergeInterleaveBuilder,0,0
+Strings.7.new BiConsumer() {...},0,0
+Predicates,0,0
+Strings.7.new Callable() {...},0,0
+Strings.7.new Function() {...},0,0
+Bytes.BosToArrayHolder.new Function() {...},0,0
+Actions.DoNothingHolder.new Action() {...},0,0
+Flowables,0,0
+Predicates.FalseHolder,0,0
+Strings.DisposeActionHolder,0,0
+Predicates.TrueHolder.new Predicate() {...},0,0
+Maybes,0,0
+Consumers.CloseHolder.new Consumer() {...},0,0
+IO.new Callable() {...},0,0
+IO.new Callable() {...},3,-1
+StateMachine2.Builder3.new FlowableTransformer() {...},0,0
+Predicates.FalseHolder.new Predicate() {...},0,0
+Statistics,0,0
+StateMachine.CompletionAlwaysTrueHolder,0,0
+Observables,0,0
+BiPredicates.new BiPredicate() {...},0,0
+BiPredicates.new BiPredicate() {...},0,0
+BiPredicates.new BiPredicate() {...},0,0
+RetryWhen.Builder.new Function() {...},0,0
+RetryWhen.Builder.new Function() {...},-2,-2
+Actions.DoNothingHolder,0,0
+StateMachine2.Builder,0,0
+Consumers.PrintlnHolder.new Consumer() {...},0,0
+StateMachine2.Builder3,0,0
+StateMachine2.Builder2,0,0
+Bytes.InputStreamCloseHolder.new Consumer() {...},0,0
+Flowables.1.new Runnable() {...},0,0
+RetryWhen.ErrorAndDuration,0,0
+StateMachine.Builder,0,0
+Consumers.DoNothingHolder.new Consumer() {...},0,0
+Predicates.TrueHolder,0,0
+BiFunctions.ThrowingHolder.new BiFunction() {...},0,0
+BiFunctions.ThrowingHolder,0,0
+Functions,0,0
+StateMachine2,0,0
+Strings.SplitLinesHolder,0,0
+Strings.new FlowableTransformer() {...},0,0
+Strings.new FlowableTransformer() {...},0,0
+Strings.new Function() {...},0,0
+BiPredicates,0,0
+Bytes.ZipHolder,0,0
+RetryWhen.Builder.ToLongHolder.new Function() {...},0,0
+RetryWhen,0,0
+Strings,0,0
+Strings.DisposeActionHolder.new Consumer() {...},0,0
+Bytes.InputStreamCloseHolder,0,0
+Bytes.ZipHolder.new Function() {...},0,0
+Callables.new Callable() {...},0,0
+Bytes.ZipHolder.new Consumer() {...},0,0
+Flowables.new Consumer() {...},0,0
+Flowables.new Runnable() {...},0,0
+Callables.new Callable() {...},0,0
+Flowables.new Runnable() {...},2,-10
+Flowables.new Runnable() {...},2,-10
+Consumers.CloseHolder,0,0
+Bytes.BosToArrayHolder,0,0
+Functions.IdentityHolder,0,0
+Functions.IdentityHolder.new Function() {...},0,0
+Strings.new Callable() {...},0,0
+Strings.new Function() {...},0,0
+Strings.new Function() {...},0,0
+Strings.new Callable() {...},0,0
+Strings.new Consumer() {...},0,0
+Strings.new Function() {...},2,0
+Strings.new Function() {...},0,0
+BiFunctions.new BiFunction() {...},0,0
+Strings.new Callable() {...},3,0
+StateMachine.Builder3,0,0
+BiFunctions.new BiFunction() {...},0,0
+BiFunctions.new BiFunction() {...},0,0
+Strings.new Predicate() {...},0,0
+StateMachine.Builder2,0,0
+Bytes,0,0
+StateMachine,0,0
+Consumers.PrintlnHolder,0,0
+Actions.new Action() {...},0,0
+Actions.new Action() {...},-1,0
+StateMachine.CompletionAlwaysTrueHolder.new StateMachine.Completion() {...},0,0
+Actions.new Action() {...},0,0
+Actions,0,0
+BiFunctions,0,0
+Bytes.BosCollectorHolder,0,0
+Consumers.new LongConsumer() {...},0,0
+Functions.new Function() {...},0,0
+Strings.Utf8Holder,0,0
+Functions.new Function() {...},0,0
+Functions.new Function() {...},0,0
+IO,0,0
+Consumers,0,0
+IO.ServerSocketBuilder,0,0
+SchedulerHelper,0,0
+Bytes.new Consumer() {...},0,0
+Bytes.new Consumer() {...},-2,0
+Observables.1.new Runnable() {...},0,0
+Bytes.new Callable() {...},0,0
+Bytes.new Function() {...},0,0
+Bytes.new Callable() {...},0,0
+Consumers.DoNothingHolder,0,0
+Bytes.new Function() {...},0,0
+Consumers.new Consumer() {...},0,0
+Consumers.new Consumer() {...},0,0
+Consumers.new LongConsumer() {...},3,-3
+Consumers.new Consumer() {...},0,0
+Consumers.new Consumer() {...},0,0
+Consumers.new Consumer() {...},0,0
+Consumers.new Consumer() {...},0,0
+Observables.new Consumer() {...},0,0
+Observables.new Runnable() {...},0,0
+Observables.new Runnable() {...},2,-10
+Consumers.new Consumer() {...},2,0
+Observables.new Runnable() {...},2,-10
+Consumers.new Consumer() {...},0,0
+TransformerStringSplit.new BiPredicate() {...},0,0
+FlowableMinRequest.MinRequestSubscriber,0,0
+TransformerStateMachine,0,0
+FlowableMergeInterleave.SourceComplete,0,0
+FlowableRepeatingTransform.Chain,0,0
+FlowableStringInputStream.StringInputStream,0,0
+TransformerStringSplit.new Function3() {...},0,0
+TransformerDecode,0,0
+FlowableRepeatingTransform.Tester,0,0
+FlowableReverse.2.new Iterator() {...},0,0
+FlowableMaxRequest,0,0
+FlowableRepeatingTransform.ChainedReplaySubject,0,0
+FlowableMapLast.MapLastSubscriber,0,0
+TransformerStateMachine.NotificationEmitter,0,0
+TransformerDecode.new Function3() {...},0,0
+TransformerDecode.new Callable() {...},0,0
+TransformerDecode.new BiPredicate() {...},0,0
+FlowableMatch.MatchCoordinator,0,0
+FlowableRepeatingTransform.MultiSubscription,0,0
+TransformerStateMachine.new Predicate() {...},0,0
+FlowableRepeatingTransform.Event,0,0
+FlowableReverse,0,0
+TransformerStateMachine.new Callable() {...},0,0
+TransformerStateMachine.new Function() {...},0,0
+FlowableServerSocket.new Consumer() {...},0,0
+FlowableServerSocket.new Callable() {...},0,0
+FlowableServerSocket.new Function() {...},0,0
+FlowableDoOnEmpty,0,0
+FlowableServerSocket.new Consumer() {...},0,0
+FlowableServerSocket.new Callable() {...},0,0
+FlowableServerSocket.new Function() {...},0,0
+TransformerStateMachine.UnsubscribedNotificationHolder,0,0
+DelimitedStringLinkedList.Node,0,0
+FlowableReverse.new Function() {...},0,0
+FlowableReverse.new Iterable() {...},0,0
+FlowableMapLast,0,0
+FlowableRepeat,0,0
+TransformerStringSplit,0,0
+FlowableStateMachine,0,0
+FlowableMinRequest,0,0
+OnSubscribeCacheResettable,0,0
+FlowableFetchPagesByRequest.new Callable() {...},0,0
+FlowableMatch.ItemA,0,0
+FlowableStringInputStream,0,0
+FlowableFetchPagesByRequest.1.new LongConsumer() {...},0,0
+FlowableRepeatingTransform.DestinationSerializedSubject,0,0
+FlowableServerSocket,0,0
+FlowableRepeatingTransform.ChainedReplaySubject.Requests,0,0
+FlowableMatch.Source,0,0
+FlowableMatch,0,0
+FlowableMaxRequest.MaxRequestSubscriber,1,-1
+FlowableMergeInterleave.MergeInterleaveSubscription,0,0
+FlowableWindowMinMax,0,0
+FlowableStateMachine.StateMachineSubscriber,0,0
+FlowableFetchPagesByRequest.Count,0,0
+TransformerDecode.Result,0,0
+FlowableMatch.MySubscriber,0,0
+FlowableCollectWhile,0,0
+DelimitedStringLinkedList,0,0
+FlowableMatch.MatchCoordinator.Status,0,0
+FlowableRepeatingTransform,0,0
+TransformerStateMachine.2.new FlowableOnSubscribe() {...},0,0
+FlowableMergeInterleave,0,0
+FlowableWindowMinMax.Metric,0,0
+FlowableMergeInterleave.SourceSubscriber,0,0
+FlowableRepeatingTransform.TesterObserver,0,0
+FlowableRepeatingTransform.EventType,0,0
+FlowableMergeInterleave.SourceArrived,0,0
+FlowableFetchPagesByRequest,0,0
+FlowableStringSplitSimple,0,0
+FlowableWindowMinMax.WindowMinMaxSubscriber,0,0
+FlowableMatch.MyError,0,0
+FlowableCollectWhile.CollectWhileSubscriber,0,0
+FlowableDoOnEmpty.DoOnEmptySubscriber,0,0
+FlowableStringSplitSimple.StringSplitSubscriber,0,0
+FlowableMatch.MatchCoordinator.Emitted,0,0
+FlowableRepeat.RepeatSubscription,0,0
+TransformerStateMachine.Mutable,0,0
+PagedQueue.MessageType,0,0
+Pages,-1,1
+Page,0,0
+FlowableOnBackpressureBufferToFile.BufferToFileSubscriberFlowable,0,0
+FlowableOnBackpressureBufferToFile.BufferToFileSubscriber,0,0
+UnsafeAccess,0,0
+SerializerBytes,0,0
+SerializerJavaIO,0,0
+MemoryMappedFile,0,0
+FlowableOnBackpressureBufferToFile.BufferToFileSubscriberObservable,0,0
+PagedQueue,-1,1
+FlowableOnBackpressureBufferToFile,0,0
+SchedulerWithId.1.new Runnable() {...},0,0
+SchedulerWithId,0,0
+SchedulerWithId.new Scheduler.Worker() {...},0,0
+AssertionException,0,0
+ThrowingException,0,0

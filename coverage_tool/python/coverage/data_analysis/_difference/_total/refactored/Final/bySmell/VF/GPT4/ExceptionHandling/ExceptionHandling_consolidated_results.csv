@@ -1,0 +1,13 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_pybuilder.GPT4.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_polling.GPT4.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_grimoirelab.GPT4.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_acitoolkit.GPT4.VF.ExceptionHandling.csv,-768,2,-51.2,0.13333333333333333
+difference_RxPY.GPT4.VF.ExceptionHandling.csv,-18,2782,-0.24,37.093333333333334
+difference_aws-cli.GPT4.VF.ExceptionHandling.csv,0,17682,0.0,82.62616822429906
+difference_spotipy.GPT4.VF.ExceptionHandling.csv,34,10,4.857142857142857,1.4285714285714286
+difference_robotframework.GPT4.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_jedi.GPT4.VF.ExceptionHandling.csv,0,-92,0.0,-1.1219512195121952
+difference_softlayer.GPT4.VF.ExceptionHandling.csv,0,8716,0.0,114.6842105263158
+difference_stig.GPT4.VF.ExceptionHandling.csv,0,0,0.0,0.0
+difference_cloud-init.GPT4.VF.ExceptionHandling.csv,-168,34918,-0.7241379310344828,150.50862068965517

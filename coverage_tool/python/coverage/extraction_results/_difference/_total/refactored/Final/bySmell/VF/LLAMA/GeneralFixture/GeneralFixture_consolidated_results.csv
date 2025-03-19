@@ -1,0 +1,10 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_acitoolkit.LLAMA.VF.GeneralFixture.csv,384,-2737,25.6,-182.46666666666667
+difference_grimoirelab.LLAMA.VF.GeneralFixture.csv,410,393,5.061728395061729,4.851851851851852
+difference_cloud-init.LLAMA.VF.GeneralFixture.csv,84,-17459,0.36363636363636365,-75.58008658008659
+difference_robotframework.LLAMA.VF.GeneralFixture.csv,668,395,6.185185185185185,3.6574074074074074
+difference_softlayer.LLAMA.VF.GeneralFixture.csv,-6,-13630,-0.03571428571428571,-81.13095238095238
+difference_vhs-teletext.LLAMA.VF.GeneralFixture.csv,0,-449,0.0,-10.204545454545455
+difference_stig.LLAMA.VF.GeneralFixture.csv,580,1422,10.357142857142858,25.392857142857142
+difference_aws-cli.LLAMA.VF.GeneralFixture.csv,0,-8851,0.0,-41.55399061032864
+difference_spotipy.LLAMA.VF.GeneralFixture.csv,-35,-5,-3.888888888888889,-0.5555555555555556

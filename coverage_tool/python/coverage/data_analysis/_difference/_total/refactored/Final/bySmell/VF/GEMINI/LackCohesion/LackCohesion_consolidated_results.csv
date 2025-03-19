@@ -1,0 +1,11 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_RxPY.GEMINI.VF.LackCohesion.csv,-60,-32,-0.29850746268656714,-0.15920398009950248
+difference_robotframework.GEMINI.VF.LackCohesion.csv,0,0,0.0,0.0
+difference_aws-cli.GEMINI.VF.LackCohesion.csv,0,17682,0.0,82.62616822429906
+difference_acitoolkit.GEMINI.VF.LackCohesion.csv,-768,452,-51.2,30.133333333333333
+difference_softlayer.GEMINI.VF.LackCohesion.csv,0,8716,0.0,114.6842105263158
+difference_cloud-init.GEMINI.VF.LackCohesion.csv,-168,34920,-0.7241379310344828,150.51724137931035
+difference_stig.GEMINI.VF.LackCohesion.csv,0,0,0.0,0.0
+difference_grimoirelab.GEMINI.VF.LackCohesion.csv,0,0,0.0,0.0
+difference_pybuilder.GEMINI.VF.LackCohesion.csv,0,160,0.0,17.77777777777778
+difference_jedi.GEMINI.VF.LackCohesion.csv,0,-92,0.0,-1.1219512195121952

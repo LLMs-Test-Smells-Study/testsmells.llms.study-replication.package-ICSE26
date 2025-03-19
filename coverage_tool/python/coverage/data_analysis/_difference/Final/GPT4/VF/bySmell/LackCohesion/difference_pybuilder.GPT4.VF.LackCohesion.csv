@@ -1,0 +1,10 @@
+File,missing_orig,missing_refac,statements_orig,statements_refac,statements_diff,missing_diff,coverage_original,coverage_refactor,covered_lines,Module
+src/main/python/pybuilder/__init__.py,12,12,14,14,0,0,2,2,0,
+src/main/python/pybuilder/_vendor/__init__.py,0,0,1,1,0,0,1,1,0,
+src/main/python/pybuilder/_vendor/colorama/__init__.py,0,0,4,4,0,0,4,4,0,
+src/main/python/pybuilder/_vendor/colorama/ansi.py,8,8,73,73,0,0,65,65,0,
+src/main/python/pybuilder/_vendor/colorama/ansitowin32.py,31,111,145,145,0,80,114,34,-80,
+src/main/python/pybuilder/_vendor/colorama/initialise.py,47,47,69,69,0,0,22,22,0,
+src/main/python/pybuilder/_vendor/colorama/win32.py,84,84,95,95,0,0,11,11,0,
+src/main/python/pybuilder/_vendor/colorama/winterm.py,102,102,136,136,0,0,34,34,0,
+,284,364,537,537,0,80,253,173,-80,Total

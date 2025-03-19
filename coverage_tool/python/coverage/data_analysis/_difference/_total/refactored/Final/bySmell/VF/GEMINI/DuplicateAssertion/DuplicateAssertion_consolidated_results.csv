@@ -1,0 +1,11 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.GEMINI.VF.DuplicateAssertion.csv,-168,34940,-0.7241379310344828,150.60344827586206
+difference_stig.GEMINI.VF.DuplicateAssertion.csv,0,0,0.0,0.0
+difference_pybuilder.GEMINI.VF.DuplicateAssertion.csv,0,160,0.0,17.77777777777778
+difference_grimoirelab.GEMINI.VF.DuplicateAssertion.csv,0,0,0.0,0.0
+difference_aws-cli.GEMINI.VF.DuplicateAssertion.csv,0,17682,0.0,82.62616822429906
+difference_softlayer.GEMINI.VF.DuplicateAssertion.csv,0,8716,0.0,114.6842105263158
+difference_spotipy.GEMINI.VF.DuplicateAssertion.csv,34,10,4.857142857142857,1.4285714285714286
+difference_RxPY.GEMINI.VF.DuplicateAssertion.csv,-18,2782,-0.24,37.093333333333334
+difference_polling.GEMINI.VF.DuplicateAssertion.csv,0,0,0.0,0.0
+difference_robotframework.GEMINI.VF.DuplicateAssertion.csv,0,0,0.0,0.0

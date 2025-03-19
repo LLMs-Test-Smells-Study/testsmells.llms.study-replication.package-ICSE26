@@ -1,0 +1,10 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_softlayer.LLAMA.VF.SuboptimalAssert.csv,0,-37,0.0,-0.06208053691275168
+difference_cloud-init.LLAMA.VF.SuboptimalAssert.csv,84,-2128,0.33070866141732286,-8.377952755905511
+difference_stig.LLAMA.VF.SuboptimalAssert.csv,756,8889,13.5,158.73214285714286
+difference_grimoirelab.LLAMA.VF.SuboptimalAssert.csv,1503,1399,18.555555555555557,17.271604938271604
+difference_vhs-teletext.LLAMA.VF.SuboptimalAssert.csv,0,-6,0.0,-0.13636363636363635
+difference_pybuilder.LLAMA.VF.SuboptimalAssert.csv,-1,-1,-0.06666666666666667,-0.06666666666666667
+difference_spotipy.LLAMA.VF.SuboptimalAssert.csv,-35,-5,-3.888888888888889,-0.5555555555555556
+difference_RxPY.LLAMA.VF.SuboptimalAssert.csv,30,85,0.07731958762886598,0.2190721649484536
+difference_aws-cli.LLAMA.VF.SuboptimalAssert.csv,0,-125,0.0,-0.5868544600938967

@@ -1,0 +1,10 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_vhs-teletext.LLAMA.VF.LackCohesion.csv,0,-5,0.0,-0.11363636363636363
+difference_RxPY.LLAMA.VF.LackCohesion.csv,30,93,0.07731958762886598,0.23969072164948454
+difference_robotframework.LLAMA.VF.LackCohesion.csv,579,417,5.361111111111111,3.861111111111111
+difference_aws-cli.LLAMA.VF.LackCohesion.csv,0,-8841,0.0,-41.50704225352113
+difference_jedi.LLAMA.VF.LackCohesion.csv,-109,8,-0.7569444444444444,0.05555555555555555
+difference_cloud-init.LLAMA.VF.LackCohesion.csv,84,-17459,0.36363636363636365,-75.58008658008659
+difference_stig.LLAMA.VF.LackCohesion.csv,306,1226,5.464285714285714,21.892857142857142
+difference_softlayer.LLAMA.VF.LackCohesion.csv,-34,-13642,-0.20238095238095238,-81.20238095238095
+difference_grimoirelab.LLAMA.VF.LackCohesion.csv,-21,-17,-0.25925925925925924,-0.20987654320987653

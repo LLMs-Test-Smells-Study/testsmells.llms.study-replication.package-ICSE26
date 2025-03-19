@@ -1,0 +1,16 @@
+Module,statements,missing
+acitoolkit/__about__.py,0,0
+acitoolkit/__init__.py,-1,0
+acitoolkit/aciConcreteLib.py,105,0
+acitoolkit/aciFaults.py,1,0
+acitoolkit/aciHealthScore.py,6,0
+acitoolkit/aciSearch.py,2,0
+acitoolkit/aciTable.py,0,0
+acitoolkit/acibaseobject.py,23,0
+acitoolkit/acicounters.py,1,0
+acitoolkit/acifakeapic.py,3,0
+acitoolkit/aciphysobject.py,82,0
+acitoolkit/acisession.py,-1,0
+acitoolkit/acitoolkit.py,161,0
+acitoolkit/acitoolkitlib.py,2,0
+tests/acitoolkit_test.py,-14,-7

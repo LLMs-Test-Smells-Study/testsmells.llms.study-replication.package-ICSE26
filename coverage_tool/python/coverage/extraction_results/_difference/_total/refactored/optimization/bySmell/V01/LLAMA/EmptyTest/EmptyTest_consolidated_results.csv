@@ -1,0 +1,3 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aws-cli.LLAMA.V01.EmptyTest.csv,0,-2,0.0,-0.009389671361502348
+difference_vhs-teletext.LLAMA.V01.EmptyTest.csv,0,-941,0.0,-21.386363636363637

@@ -1,0 +1,16 @@
+File,statements,missing
+acitoolkit/__about__.py,0,0
+acitoolkit/__init__.py,0,0
+acitoolkit/aciConcreteLib.py,0,0
+acitoolkit/aciFaults.py,0,0
+acitoolkit/aciHealthScore.py,0,0
+acitoolkit/aciSearch.py,0,0
+acitoolkit/aciTable.py,0,0
+acitoolkit/acibaseobject.py,0,0
+acitoolkit/acicounters.py,0,0
+acitoolkit/acifakeapic.py,0,0
+acitoolkit/aciphysobject.py,0,0
+acitoolkit/acisession.py,0,0
+acitoolkit/acitoolkit.py,0,0
+acitoolkit/acitoolkitlib.py,0,0
+tests/acitoolkit_test.py,-5,-8

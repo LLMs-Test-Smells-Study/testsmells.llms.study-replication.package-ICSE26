@@ -1,0 +1,8 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.GEMINI.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_grimoirelab.GEMINI.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_stig.GEMINI.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_softlayer.GEMINI.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_spotipy.GEMINI.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_acitoolkit.GEMINI.VF.GeneralFixture.csv,0,0,0.0,0.0
+difference_robotframework.GEMINI.VF.GeneralFixture.csv,0,0,0.0,0.0

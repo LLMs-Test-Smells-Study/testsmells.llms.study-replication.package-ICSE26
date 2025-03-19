@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_stig.LLAMA.V01.DuplicateAssertion.csv,71,9163,1.2678571428571428,163.625
+difference_RxPY.LLAMA.V01.DuplicateAssertion.csv,135,66,0.3479381443298969,0.17010309278350516
+difference_aws-cli.LLAMA.V01.DuplicateAssertion.csv,0,-6,0.0,-0.028169014084507043
+difference_polling.LLAMA.V01.DuplicateAssertion.csv,17,6,3.4,1.2
+difference_robotframework.LLAMA.V01.DuplicateAssertion.csv,0,2,0.0,0.018518518518518517
+difference_grimoirelab.LLAMA.V01.DuplicateAssertion.csv,188,188,2.3209876543209877,2.3209876543209877

@@ -1,0 +1,4 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.GPT4.VF.ResourceOptimism.csv,0,4497,0.0,14.696078431372548
+difference_marine-api.GPT4.VF.ResourceOptimism.csv,-91,91,-0.6546762589928058,0.6546762589928058
+difference_unix4j.GPT4.VF.ResourceOptimism.csv,-503,488,-2.566326530612245,2.489795918367347

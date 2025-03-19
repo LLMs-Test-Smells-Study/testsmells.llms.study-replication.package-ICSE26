@@ -1,0 +1,114 @@
+CLASS,LINE_COVERED,LINE_MISSED
+DirectoryEntry,0,0
+AbstractWatchService,0,0
+FileFactory.DirectorySupplier,0,0
+JimfsFileSystemProvider,0,0
+FileFactory.RegularFileSupplier,0,0
+BasicAttributeProvider.Attributes,0,0
+PathService,0,0
+PathType,0,0
+PollingWatchService.new Runnable() {...},0,0
+Configuration.Builder,0,0
+DosAttributeProvider.View,0,0
+AbstractWatchService.Key,0,0
+PathType.ParseResult,0,0
+Name.new Function() {...},0,0
+Name.new Function() {...},0,0
+UserDefinedAttributeProvider,0,0
+Options,0,0
+PosixAttributeProvider.Attributes,0,0
+Util,0,0
+Configuration.WindowsHolder,0,0
+RegularFile,0,0
+UserLookupService.JimfsUserPrincipal,0,0
+Handler,0,0
+Directory,0,0
+JimfsFileSystem.new Closeable() {...},0,0
+FileSystemView.new FileLookup() {...},0,0
+DosAttributeProvider.Attributes,0,0
+Configuration,0,0
+DowngradedSeekableByteChannel,0,0
+JimfsFileStore,0,0
+OwnerAttributeProvider.View,0,0
+AttributeProvider,0,0
+PathNormalization.new PathNormalization() {...},0,0
+FileTree,0,0
+PathNormalization.new PathNormalization() {...},-1,1
+UserLookupService.JimfsGroupPrincipal,0,0
+PathNormalization.new PathNormalization() {...},-1,1
+AclAttributeProvider.View,0,0
+PollingWatchService.Snapshot,0,0
+AbstractWatchService.Event,0,0
+PathNormalization.new PathNormalization() {...},-1,1
+PathURLConnection,0,0
+PathNormalization.new PathNormalization() {...},-1,-3
+WatchServiceConfiguration.PollingConfig,0,0
+JimfsFileSystem,0,0
+PathMatchers.RegexPathMatcher,0,0
+JimfsInputStream,0,0
+PathService.new Predicate() {...},0,0
+JimfsOutputStream,0,0
+JimfsFileSystems,0,0
+StandardAttributeProviders,0,0
+JimfsSecureDirectoryStream.DirectoryIterator,0,0
+WatchServiceConfiguration,0,0
+JimfsAsynchronousFileChannel,0,0
+PathNormalization,0,0
+SystemJimfsFileSystemProvider,0,0
+JimfsPath.new AbstractList() {...},0,0
+FileFactory.SymbolicLinkSupplier,0,0
+AttributeService,0,0
+GlobToRegex.new GlobToRegex.State() {...},0,0
+PosixAttributeProvider.View,0,0
+GlobToRegex.new GlobToRegex.State() {...},4,1
+GlobToRegex.new GlobToRegex.State() {...},-8,0
+PathMatchers,0,0
+GlobToRegex.new GlobToRegex.State() {...},-6,2
+AttributeService.SimpleFileAttribute,0,0
+GlobToRegex.new GlobToRegex.State() {...},6,1
+GlobToRegex.new GlobToRegex.State() {...},0,2
+AbstractAttributeView,0,0
+DosAttributeProvider,0,0
+UnixAttributeProvider,0,0
+AttributeCopyOption,0,0
+JimfsAsynchronousFileChannel.new Callable() {...},0,0
+GlobToRegex,0,0
+JimfsAsynchronousFileChannel.new Callable() {...},0,0
+JimfsAsynchronousFileChannel.new Callable() {...},0,0
+PollingWatchService,0,0
+OwnerAttributeProvider,0,0
+SystemJimfsFileSystemProvider.new Runnable() {...},0,0
+FileSystemView,0,0
+GlobToRegex.State,0,0
+Configuration.OsxHolder,0,0
+File,0,0
+Jimfs,0,0
+UnixPathType,0,0
+UserLookupService,0,0
+AbstractWatchService.Key.State,0,0
+JimfsSecureDirectoryStream.new DirectoryStream.Filter() {...},0,0
+JimfsSecureDirectoryStream.new FileLookup() {...},0,0
+Name,0,0
+JimfsSecureDirectoryStream,0,0
+SymbolicLink,0,0
+JimfsPath,0,0
+BasicAttributeProvider.View,0,0
+UserDefinedAttributeProvider.View,0,0
+Feature,0,0
+WindowsPathType,0,0
+FileSystemState,0,0
+DowngradedDirectoryStream,0,0
+FileFactory,0,0
+PosixAttributeProvider,0,0
+FileSystemView.DeleteMode,0,0
+JimfsAsynchronousFileChannel.CompletionHandlerCallback,0,0
+Configuration.UnixHolder,0,0
+Directory.new AbstractIterator() {...},0,0
+HeapDisk,0,0
+BasicAttributeProvider,0,0
+UserLookupService.NamedPrincipal,0,0
+JimfsFileChannel.FakeFileLock,0,0
+JimfsFileChannel,0,0
+JimfsFileSystems.new Runnable() {...},0,0
+InternalCharMatcher,0,0
+AclAttributeProvider,0,0

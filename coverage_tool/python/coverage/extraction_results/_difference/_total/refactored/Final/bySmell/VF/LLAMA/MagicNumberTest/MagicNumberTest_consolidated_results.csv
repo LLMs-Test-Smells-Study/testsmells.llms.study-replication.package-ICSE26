@@ -1,0 +1,10 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_RxPY.LLAMA.VF.MagicNumberTest.csv,254,-14929,0.9883268482490273,-58.08949416342413
+difference_softlayer.LLAMA.VF.MagicNumberTest.csv,454,-13212,2.7023809523809526,-78.64285714285714
+difference_cloud-init.LLAMA.VF.MagicNumberTest.csv,84,-17559,0.36363636363636365,-76.01298701298701
+difference_spotipy.LLAMA.VF.MagicNumberTest.csv,-32,-570,-3.5555555555555554,-63.333333333333336
+difference_grimoirelab.LLAMA.VF.MagicNumberTest.csv,1365,1303,16.85185185185185,16.08641975308642
+difference_vhs-teletext.LLAMA.VF.MagicNumberTest.csv,0,-3,0.0,-0.06818181818181818
+difference_aws-cli.LLAMA.VF.MagicNumberTest.csv,0,-8851,0.0,-41.55399061032864
+difference_pybuilder.LLAMA.VF.MagicNumberTest.csv,125,-179,8.333333333333334,-11.933333333333334
+difference_stig.LLAMA.VF.MagicNumberTest.csv,679,1447,12.125,25.839285714285715

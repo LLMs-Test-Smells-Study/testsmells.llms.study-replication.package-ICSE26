@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_softlayer.GEMINI.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_cloud-init.GEMINI.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_acitoolkit.GEMINI.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_grimoirelab.GEMINI.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_RxPY.GEMINI.VF.RedundantPrint.csv,0,0,0.0,0.0
+difference_stig.GEMINI.VF.RedundantPrint.csv,0,0,0.0,0.0

@@ -1,0 +1,6 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_softlayer.LLAMA.V01.SuboptimalAssert.csv,4,-4,0.006711409395973154,-0.006711409395973154
+difference_grimoirelab.LLAMA.V01.SuboptimalAssert.csv,0,0,0.0,0.0
+difference_stig.LLAMA.V01.SuboptimalAssert.csv,326,9145,5.821428571428571,163.30357142857142
+difference_cloud-init.LLAMA.V01.SuboptimalAssert.csv,0,-2,0.0,-0.0078125
+difference_aws-cli.LLAMA.V01.SuboptimalAssert.csv,0,0,0.0,0.0

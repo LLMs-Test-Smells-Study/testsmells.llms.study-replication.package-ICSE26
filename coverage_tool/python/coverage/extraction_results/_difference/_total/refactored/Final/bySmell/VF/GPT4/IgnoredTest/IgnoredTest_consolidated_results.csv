@@ -1,0 +1,3 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_cloud-init.GPT4.VF.IgnoredTest.csv,84,-17470,0.36363636363636365,-75.62770562770562
+difference_aws-cli.GPT4.VF.IgnoredTest.csv,0,-8841,0.0,-41.50704225352113

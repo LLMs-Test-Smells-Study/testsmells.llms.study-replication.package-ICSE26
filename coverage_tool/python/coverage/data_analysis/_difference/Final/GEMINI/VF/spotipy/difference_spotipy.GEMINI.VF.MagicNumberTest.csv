@@ -1,0 +1,8 @@
+File,missing_orig,missing_refac,statements_orig,statements_refac,statements_diff,missing_diff,coverage_original,coverage_refactor,covered_lines,Module
+spotipy/__init__.py,0,0,5,5,0,0,5,5,0,
+spotipy/cache_handler.py,46,47,98,97,-1,1,52,50,-2,
+spotipy/client.py,429,434,570,576,6,5,141,142,1,
+spotipy/exceptions.py,8,8,11,11,0,0,3,3,0,
+spotipy/oauth2.py,259,291,559,571,12,32,300,280,-20,
+spotipy/util.py,25,26,45,45,0,1,20,19,-1,
+,767,806,1288,1305,17,39,521,499,-22,Total

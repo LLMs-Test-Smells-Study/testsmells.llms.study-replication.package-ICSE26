@@ -1,0 +1,7 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_aws-cli.LLAMA.V01.ExceptionHandling.csv,0,-2,0.0,-0.009389671361502348
+difference_RxPY.LLAMA.V01.ExceptionHandling.csv,439,39,1.1343669250645996,0.10077519379844961
+difference_vhs-teletext.LLAMA.V01.ExceptionHandling.csv,0,-941,0.0,-21.386363636363637
+difference_cloud-init.LLAMA.V01.ExceptionHandling.csv,0,-134,0.0,-0.5234375
+difference_robotframework.LLAMA.V01.ExceptionHandling.csv,30,22,0.2777777777777778,0.2037037037037037
+difference_pybuilder.LLAMA.V01.ExceptionHandling.csv,0,0,0.0,0.0

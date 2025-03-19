@@ -1,0 +1,9 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_RxPY.GEMINI.VF.MagicNumberTest.csv,-18,2758,-0.24,36.77333333333333
+difference_softlayer.GEMINI.VF.MagicNumberTest.csv,0,8716,0.0,114.6842105263158
+difference_spotipy.GEMINI.VF.MagicNumberTest.csv,34,78,4.857142857142857,11.142857142857142
+difference_pybuilder.GEMINI.VF.MagicNumberTest.csv,0,160,0.0,17.77777777777778
+difference_grimoirelab.GEMINI.VF.MagicNumberTest.csv,0,0,0.0,0.0
+difference_cloud-init.GEMINI.VF.MagicNumberTest.csv,-168,34920,-0.7241379310344828,150.51724137931035
+difference_aws-cli.GEMINI.VF.MagicNumberTest.csv,0,17682,0.0,82.62616822429906
+difference_stig.GEMINI.VF.MagicNumberTest.csv,0,0,0.0,0.0

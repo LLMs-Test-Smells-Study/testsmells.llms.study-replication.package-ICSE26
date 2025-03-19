@@ -1,0 +1,5 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_dropwizard.LLAMA.VF.ExceptionHandling.csv,-5,1297,-0.016339869281045753,4.238562091503268
+difference_pippo.LLAMA.VF.ExceptionHandling.csv,64,48,0.5423728813559322,0.4067796610169492
+difference_wikidata-toolkit.LLAMA.VF.ExceptionHandling.csv,0,7490,0.0,42.55681818181818
+difference_elastic-job-lite.LLAMA.VF.ExceptionHandling.csv,0,5688,0.0,18.52768729641694

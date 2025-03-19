@@ -1,0 +1,3 @@
+file_name,sum_statements,sum_missing,mean_statements,mean_missing
+difference_pippo.GEMINI.VF.RedundantPrint.csv,64,48,0.5423728813559322,0.4067796610169492
+difference_unix4j.GEMINI.VF.RedundantPrint.csv,-7,-8,-0.03571428571428571,-0.04081632653061224
